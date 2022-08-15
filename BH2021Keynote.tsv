@@ -1,0 +1,1965 @@
+EDL	Record In	Record Out	Clipname	Subtitle
+
+Black Hat 2021 Keynote 
+
+# Jeff Moss: Introduction
+EDL	00:00:00,040	00:00:00,240	| BH2021Keynote |	[Applause]
+EDL	00:00:00,240	00:00:01,839	| BH2021Keynote |	good morning everyone
+EDL	00:00:01,839	00:00:04,640	| BH2021Keynote |	thanks for coming to our day two keynote
+EDL	00:00:04,640	00:00:06,240	| BH2021Keynote |	opening session
+EDL	00:00:06,240	00:00:08,160	| BH2021Keynote |	and uh I had a
+EDL	00:00:08,160	00:00:10,719	| BH2021Keynote |	I had a great day yesterday
+EDL	00:00:10,719	00:00:12,880	| BH2021Keynote |	went into the vendor room there's like
+EDL	00:00:12,880	00:00:15,679	| BH2021Keynote |	crafty bear or turbo panda looking at me
+
+
+EDL	00:00:15,679	00:00:18,400	| BH2021Keynote |	it's like I'm back at black hat
+EDL	00:00:18,400	00:00:21,039	| BH2021Keynote |	it's pretty cool creativity hey so
+EDL	00:00:21,039	00:00:23,199	| BH2021Keynote |	before we kick off our keynote I've got
+EDL	00:00:23,199	00:00:24,640	| BH2021Keynote |	a couple of normal housekeeping
+EDL	00:00:24,640	00:00:26,720	| BH2021Keynote |	announcements and a couple more thoughts
+EDL	00:00:26,720	00:00:29,359	| BH2021Keynote |	I'm going to subject you to
+
+EDL	00:00:29,359	00:00:31,439	| BH2021Keynote |	first off um
+EDL	00:00:31,439	00:00:34,079	| BH2021Keynote |	the materials for all the sessions
+EDL	00:00:34,079	00:00:36,160	| BH2021Keynote |	uh will be online next week so when you
+EDL	00:00:36,160	00:00:38,079	| BH2021Keynote |	get home from the conference
+EDL	00:00:38,079	00:00:39,600	| BH2021Keynote |	you recover over the weekend if you're
+EDL	00:00:39,600	00:00:41,840	| BH2021Keynote |	not at defcon check out the black hat
+EDL	00:00:41,840	00:00:43,760	| BH2021Keynote |	site and the youtube channel and you'll
+EDL	00:00:43,760	00:00:45,440	| BH2021Keynote |	start to see all the materials becoming
+EDL	00:00:45,440	00:00:46,480	| BH2021Keynote |	available
+EDL	00:00:46,480	00:00:48,160	| BH2021Keynote |	and then don't forget that your badge
+EDL	00:00:48,160	00:00:51,440	| BH2021Keynote |	also gets you access online for 30 days
+EDL	00:00:51,440	00:00:53,120	| BH2021Keynote |	for the session so you can also stream
+EDL	00:00:53,120	00:00:55,120	| BH2021Keynote |	it have a party at your house with your
+EDL	00:00:55,120	00:00:57,120	| BH2021Keynote |	friends and watch your favorite sessions
+EDL	00:00:57,120	00:01:00,640	| BH2021Keynote |	again or catch up on the things you didn't see
+
+EDL	00:01:00,640	00:01:04,239	| BH2021Keynote |	so that's the housekeeping and then this evening
+
+EDL	00:01:04,239	00:01:06,960	| BH2021Keynote |	we'll have an ending keynote
+EDL	00:01:06,960	00:01:09,840	| BH2021Keynote |	by the secretary of dhs now
+EDL	00:01:09,840	00:01:13,200	| BH2021Keynote |	it had been planned that both Jen and
+EDL	00:01:13,200	00:01:15,520	| BH2021Keynote |	the secretary were going to be live
+EDL	00:01:15,520	00:01:16,240	| BH2021Keynote |	and
+
+EDL	00:01:16,240	00:01:18,159	| BH2021Keynote |	on the beginning of the week
+EDL	00:01:18,159	00:01:20,320	| BH2021Keynote |	here we are at the end of the week and
+EDL	00:01:20,320	00:01:21,520	| BH2021Keynote |	they're not live
+EDL	00:01:21,520	00:01:23,840	| BH2021Keynote |	so that wasn't the plan I apologize for
+EDL	00:01:23,840	00:01:24,880	| BH2021Keynote |	that but
+EDL	00:01:24,880	00:01:28,080	| BH2021Keynote |	stuff happens and we just have to adapt and overcome
+EDL	00:01:28,080	00:01:29,280	| BH2021Keynote |	so
+EDL	00:01:29,280	00:01:31,840	| BH2021Keynote |	like yesterday I'm going to be doing um
+EDL	00:01:31,840	00:01:33,119	| BH2021Keynote |	an introduction
+
+EDL	00:01:33,119	00:01:35,520	| BH2021Keynote |	Jen's going to give her talk then we're
+EDL	00:01:35,520	00:01:37,600	| BH2021Keynote |	going to go to a q a session just like
+EDL	00:01:37,600	00:01:40,320	| BH2021Keynote |	we did with matt yesterday
+
+EDL	00:01:40,320	00:01:41,600	| BH2021Keynote |	alright so
+EDL	00:01:41,600	00:01:44,640	| BH2021Keynote |	that's the plan let's get started
+
+* Introduction
+EDL	00:01:44,640	00:01:46,880	| BH2021Keynote |	now many of you who've seen me talk up
+EDL	00:01:46,880	00:01:49,040	| BH2021Keynote |	on stage before have heard me say this
+EDL	00:01:49,040	00:01:50,640	| BH2021Keynote |	over and over again and I'm probably
+EDL	00:01:50,640	00:01:52,000	| BH2021Keynote |	going to keep repeating it for at least
+EDL	00:01:52,000	00:01:53,759	| BH2021Keynote |	another five years which is that
+EDL	00:01:53,759	00:01:57,040	| BH2021Keynote |	internet problems are global problems
+EDL	00:01:57,040	00:01:59,680	| BH2021Keynote |	and I say this because it's
+EDL	00:01:59,680	00:02:00,880	| BH2021Keynote |	sometimes
+EDL	00:02:00,880	00:02:03,280	| BH2021Keynote |	a small-minded kind of well the tech was
+EDL	00:02:03,280	00:02:05,600	| BH2021Keynote |	invented in america and there's a fang
+EDL	00:02:05,600	00:02:07,280	| BH2021Keynote |	the giant companies are in america in
+EDL	00:02:07,280	00:02:09,280	| BH2021Keynote |	the english-speaking world and we just
+EDL	00:02:09,280	00:02:11,520	| BH2021Keynote |	sort of don't realize that the equipment
+EDL	00:02:11,520	00:02:13,120	| BH2021Keynote |	that runs a lot of the internet doesn't
+EDL	00:02:13,120	00:02:14,800	| BH2021Keynote |	come from america
+
+
+Another country:
+EDL	00:02:14,800	00:02:16,239	| BH2021Keynote |	right the engineers are in different
+EDL	00:02:16,239	00:02:18,800	| BH2021Keynote |	countries and that really if there is a
+EDL	00:02:18,800	00:02:20,319	| BH2021Keynote |	problem in some of the infrastructure
+EDL	00:02:20,319	00:02:22,160	| BH2021Keynote |	you're probably going to have to talk to
+EDL	00:02:22,160	00:02:24,239	| BH2021Keynote |	someone in another country or at least
+EDL	00:02:24,239	00:02:25,920	| BH2021Keynote |	deal with products manufactured in
+EDL	00:02:25,920	00:02:28,400	| BH2021Keynote |	another country or standards that were
+EDL	00:02:28,400	00:02:30,239	| BH2021Keynote |	largely developed in another country
+EDL	00:02:30,239	00:02:32,800	| BH2021Keynote |	like 5g
+
+EDL	00:02:32,800	00:02:33,920	| BH2021Keynote |	so
+EDL	00:02:33,920	00:02:36,720	| BH2021Keynote |	we have to have a bigger global mindset
+EDL	00:02:36,720	00:02:38,239	| BH2021Keynote |	and we also have to do this for another
+EDL	00:02:38,239	00:02:40,480	| BH2021Keynote |	reason I think and that is that the
+EDL	00:02:40,480	00:02:42,720	| BH2021Keynote |	internet is really shaping up
+EDL	00:02:42,720	00:02:46,720	| BH2021Keynote |	to be sort of this contested environment
+EDL	00:02:46,720	00:02:48,000	| BH2021Keynote |	right where
+EDL	00:02:48,000	00:02:50,560	| BH2021Keynote |	we're really seeing some soft lines in
+EDL	00:02:50,560	00:02:52,080	| BH2021Keynote |	the sand being drawn and it's it's
+EDL	00:02:52,080	00:02:55,599	| BH2021Keynote |	really going down sort of the rule of law countries
+
+EDL	00:02:55,599	00:02:56,400	| BH2021Keynote |	um
+EDL	00:02:56,400	00:02:58,319	| BH2021Keynote |	this undecided sort of neutral countries
+EDL	00:02:58,319	00:03:00,239	| BH2021Keynote |	in the middle that don't have to pick or
+EDL	00:03:00,239	00:03:01,680	| BH2021Keynote |	don't want to pick sides and then sort
+EDL	00:03:01,680	00:03:04,000	| BH2021Keynote |	of the more authoritarian countries and
+EDL	00:03:04,000	00:03:06,879	| BH2021Keynote |	that might be very nebulous and soft now.
+EDL	00:03:06,879	00:03:08,800	| BH2021Keynote |	but I guarantee you over the next five
+EDL	00:03:08,800	00:03:11,920	| BH2021Keynote |	years those lines are going to become
+EDL	00:03:11,920	00:03:13,760	| BH2021Keynote |	bigger and taller
+EDL	00:03:13,760	00:03:16,400	| BH2021Keynote |	lines in the sand will become moats in the sand
+EDL	00:03:16,400	00:03:17,360	| BH2021Keynote |	and
+EDL	00:03:17,360	00:03:19,200	| BH2021Keynote |	both sides
+EDL	00:03:19,200	00:03:21,440	| BH2021Keynote |	rule of law countries and authoritarian
+EDL	00:03:21,440	00:03:22,879	| BH2021Keynote |	countries are going to start squeezing
+EDL	00:03:22,879	00:03:24,720	| BH2021Keynote |	and pressuring the people in the middle
+EDL	00:03:24,720	00:03:26,560	| BH2021Keynote |	right the undecided countries are going
+EDL	00:03:26,560	00:03:27,519	| BH2021Keynote |	to be
+EDL	00:03:27,519	00:03:30,560	| BH2021Keynote |	kind of forced to try to take sides and
+EDL	00:03:30,560	00:03:32,560	| BH2021Keynote |	so from my perspective hey I want to
+EDL	00:03:32,560	00:03:35,360	| BH2021Keynote |	showcase I'm on team rule of law
+
+EDL	00:03:35,360	00:03:37,200	| BH2021Keynote |	and I really want to showcase the
+EDL	00:03:37,200	00:03:40,239	| BH2021Keynote |	strengths of rule of law right
+EDL	00:03:40,239	00:03:43,360	| BH2021Keynote |	the independence the freedom uh
+EDL	00:03:43,360	00:03:46,480	| BH2021Keynote |	of decision making the the personal choice
+
+EDL	00:03:46,480	00:03:48,239	| BH2021Keynote |	um but you have to set a positive
+EDL	00:03:48,239	00:03:50,560	| BH2021Keynote |	example you have to show that team rule
+EDL	00:03:50,560	00:03:52,640	| BH2021Keynote |	of law can get stuff done
+EDL	00:03:52,640	00:03:54,799	| BH2021Keynote |	and if ransomware attacks or other
+EDL	00:03:54,799	00:03:56,959	| BH2021Keynote |	attacks are crushing us hey we have a
+EDL	00:03:56,959	00:03:59,280	| BH2021Keynote |	way of solving these problems that don't
+EDL	00:03:59,280	00:04:01,840	| BH2021Keynote |	mean we have to become
+EDL	00:04:01,840	00:04:04,560	| BH2021Keynote |	team authoritarian right our model will
+EDL	00:04:04,560	00:04:06,000	| BH2021Keynote |	work for the challenges that the
+EDL	00:04:06,000	00:04:07,599	| BH2021Keynote |	internet is facing we created the
+EDL	00:04:07,599	00:04:09,680	| BH2021Keynote |	internet and we're going to figure out
+EDL	00:04:09,680	00:04:11,120	| BH2021Keynote |	the solutions to the problems it
+EDL	00:04:11,120	00:04:13,840	| BH2021Keynote |	presents even if there's bad actors
+EDL	00:04:13,840	00:04:16,639	| BH2021Keynote |	poking us all the time trying to push us
+EDL	00:04:16,639	00:04:18,959	| BH2021Keynote |	over or try to make us look more like
+EDL	00:04:18,959	00:04:20,880	| BH2021Keynote |	them right because that helps their
+EDL	00:04:20,880	00:04:22,720	| BH2021Keynote |	argument
+
+EDL	00:04:22,720	00:04:24,000	| BH2021Keynote |	and so
+EDL	00:04:24,000	00:04:26,080	| BH2021Keynote |	we're going to have to work together to
+EDL	00:04:26,080	00:04:27,840	| BH2021Keynote |	fix these problems we're gonna have to
+EDL	00:04:27,840	00:04:29,840	| BH2021Keynote |	coordinate with each other right we're
+EDL	00:04:29,840	00:04:31,919	| BH2021Keynote |	gonna have loose alliances we're gonna
+EDL	00:04:31,919	00:04:34,240	| BH2021Keynote |	have opportunistic but we're gonna have
+EDL	00:04:34,240	00:04:36,639	| BH2021Keynote |	to sort of do this more purposefully
+EDL	00:04:36,639	00:04:38,160	| BH2021Keynote |	we're gonna have to know that we're not
+EDL	00:04:38,160	00:04:39,440	| BH2021Keynote |	just doing it for our company or for
+EDL	00:04:39,440	00:04:40,960	| BH2021Keynote |	ourselves but we're doing it for the
+EDL	00:04:40,960	00:04:42,800	| BH2021Keynote |	future the type of internet we want to
+EDL	00:04:42,800	00:04:45,040	| BH2021Keynote |	leave our children
+EDL	00:04:45,040	00:04:46,720	| BH2021Keynote |	because the internet is so malleable
+EDL	00:04:46,720	00:04:48,880	| BH2021Keynote |	that if we screw this up long enough
+EDL	00:04:48,880	00:04:50,720	| BH2021Keynote |	it'll just become a different kind of
+EDL	00:04:50,720	00:04:52,560	| BH2021Keynote |	internet and one that maybe we're not so
+EDL	00:04:52,560	00:04:55,040	| BH2021Keynote |	proud of
+EDL	00:04:55,040	00:04:56,720	| BH2021Keynote |	so yesterday I also talked a little bit
+EDL	00:04:56,720	00:04:59,120	| BH2021Keynote |	about um community immunity and this
+EDL	00:04:59,120	00:05:01,039	| BH2021Keynote |	idea that can you get a conferred
+EDL	00:05:01,039	00:05:03,440	| BH2021Keynote |	benefit on a network
+EDL	00:05:03,440	00:05:06,160	| BH2021Keynote |	if one network is really locked down and
+EDL	00:05:06,160	00:05:08,080	| BH2021Keynote |	really secured do other networks get a
+EDL	00:05:08,080	00:05:11,759	| BH2021Keynote |	benefit maybe through anti-spam or dns
+EDL	00:05:11,759	00:05:13,680	| BH2021Keynote |	type records well I'm just going to talk
+EDL	00:05:13,680	00:05:15,280	| BH2021Keynote |	about that a little bit more
+EDL	00:05:15,280	00:05:18,479	| BH2021Keynote |	from a different perspective
+EDL	00:05:18,479	00:05:20,639	| BH2021Keynote |	so
+EDL	00:05:20,639	00:05:20,960	| BH2021Keynote |	[ SPACE 0.3 secs ]
+EDL	00:05:20,960	00:05:22,560	| BH2021Keynote |	community immunity
+EDL	00:05:22,560	00:05:24,240	| BH2021Keynote |	it's what's considered it's part of a
+EDL	00:05:24,240	00:05:26,400	| BH2021Keynote |	social dilemma a set of problems that
+EDL	00:05:26,400	00:05:28,479	| BH2021Keynote |	social scientists and psychologists
+EDL	00:05:28,479	00:05:31,120	| BH2021Keynote |	study and in the social dilemma set of
+EDL	00:05:31,120	00:05:33,600	| BH2021Keynote |	problems there's generally three that
+EDL	00:05:33,600	00:05:35,440	| BH2021Keynote |	people study and you're probably
+EDL	00:05:35,440	00:05:36,880	| BH2021Keynote |	familiar with two of them the first one
+EDL	00:05:36,880	00:05:38,639	| BH2021Keynote |	is the prisoner's dilemma
+EDL	00:05:38,639	00:05:40,560	| BH2021Keynote |	it's like in every movie and every tv
+EDL	00:05:40,560	00:05:42,479	| BH2021Keynote |	show that wants to appear smart you know
+EDL	00:05:42,479	00:05:45,919	| BH2021Keynote |	the cops separate the witnesses or the
+EDL	00:05:45,919	00:05:47,360	| BH2021Keynote |	suspects and they have a prisoner's
+EDL	00:05:47,360	00:05:48,880	| BH2021Keynote |	dilemma moment where the person turns
+EDL	00:05:48,880	00:05:51,039	| BH2021Keynote |	the camera and explains the prisoner's
+EDL	00:05:51,039	00:05:53,280	| BH2021Keynote |	dilemma to the audience
+EDL	00:05:53,280	00:05:55,840	| BH2021Keynote |	and that's largely around self-interest
+EDL	00:05:55,840	00:05:56,560	| BH2021Keynote |	if
+EDL	00:05:56,560	00:05:58,960	| BH2021Keynote |	the two
+EDL	00:05:58,960	00:06:01,919	| BH2021Keynote |	suspects stay quiet that's their optimal
+EDL	00:06:01,919	00:06:03,759	| BH2021Keynote |	solution but if either one of them
+EDL	00:06:03,759	00:06:06,080	| BH2021Keynote |	cooperates or both cooperate they have a
+EDL	00:06:06,080	00:06:09,280	| BH2021Keynote |	worse outcome
+EDL	00:06:09,280	00:06:12,000	| BH2021Keynote |	then there's a tragedy of the commons
+EDL	00:06:12,000	00:06:13,360	| BH2021Keynote |	and in the tragedy of the commons the
+EDL	00:06:13,360	00:06:15,120	| BH2021Keynote |	questions largely revolve around who
+EDL	00:06:15,120	00:06:18,000	| BH2021Keynote |	maintains the commons
+EDL	00:06:18,000	00:06:19,600	| BH2021Keynote |	and so you might say well is the
+EDL	00:06:19,600	00:06:21,199	| BH2021Keynote |	internet at commons and who's
+EDL	00:06:21,199	00:06:23,680	| BH2021Keynote |	responsible for maintaining it
+EDL	00:06:23,680	00:06:26,639	| BH2021Keynote |	but it's largely around an open resource
+EDL	00:06:26,639	00:06:28,080	| BH2021Keynote |	a field
+EDL	00:06:28,080	00:06:31,520	| BH2021Keynote |	a stadium that everybody has access to
+EDL	00:06:31,520	00:06:32,800	| BH2021Keynote |	and the one that you might be less
+EDL	00:06:32,800	00:06:34,560	| BH2021Keynote |	familiar with is the public goods
+EDL	00:06:34,560	00:06:35,680	| BH2021Keynote |	dilemma
+EDL	00:06:35,680	00:06:38,160	| BH2021Keynote |	and the public goods dilemma is largely
+EDL	00:06:38,160	00:06:41,039	| BH2021Keynote |	around a resource so think of
+EDL	00:06:41,039	00:06:43,360	| BH2021Keynote |	fishermen
+EDL	00:06:43,360	00:06:46,080	| BH2021Keynote |	trying to optimize their rate of
+EDL	00:06:46,080	00:06:49,440	| BH2021Keynote |	catching fish and so if every fisherman
+EDL	00:06:49,440	00:06:51,840	| BH2021Keynote |	catches all the fish they possibly can
+EDL	00:06:51,840	00:06:53,919	| BH2021Keynote |	there'd be no more fish
+EDL	00:06:53,919	00:06:55,520	| BH2021Keynote |	and so it would hurt the community of
+EDL	00:06:55,520	00:06:56,960	| BH2021Keynote |	fishermen
+
+EDL	00:06:56,960	00:06:58,800	| BH2021Keynote |	so
+EDL	00:06:58,800	00:07:00,560	| BH2021Keynote |	social dilemmas are defined by two
+EDL	00:07:00,560	00:07:02,720	| BH2021Keynote |	characteristics in tension with each
+EDL	00:07:02,720	00:07:05,280	| BH2021Keynote |	other the first is each person
+EDL	00:07:05,280	00:07:08,400	| BH2021Keynote |	designs their own optimum strategy to
+EDL	00:07:08,400	00:07:11,360	| BH2021Keynote |	maximize their situation
+EDL	00:07:11,360	00:07:13,840	| BH2021Keynote |	right oh I've got a free internet I'm
+EDL	00:07:13,840	00:07:15,840	| BH2021Keynote |	gonna download everything I'm going to
+EDL	00:07:15,840	00:07:17,440	| BH2021Keynote |	use all the bandwidth I'm going to
+EDL	00:07:17,440	00:07:21,039	| BH2021Keynote |	maximize and optimize for my return
+EDL	00:07:21,039	00:07:22,479	| BH2021Keynote |	and the thing it's intention with is the
+EDL	00:07:22,479	00:07:25,759	| BH2021Keynote |	second part if everybody does this
+EDL	00:07:25,759	00:07:28,960	| BH2021Keynote |	everybody is worse off
+EDL	00:07:28,960	00:07:31,840	| BH2021Keynote |	right and in that situation cooperation
+EDL	00:07:31,840	00:07:33,599	| BH2021Keynote |	is the better strategy so it's the
+EDL	00:07:33,599	00:07:35,919	| BH2021Keynote |	cooperation versus the individual
+EDL	00:07:35,919	00:07:37,680	| BH2021Keynote |	maximizer
+EDL	00:07:37,680	00:07:39,440	| BH2021Keynote |	is the problem
+
+EDL	00:07:39,440	00:07:42,080	| BH2021Keynote |	and so in the public's good dilemma
+EDL	00:07:42,080	00:07:43,360	| BH2021Keynote |	there's one you're probably familiar
+EDL	00:07:43,360	00:07:46,879	| BH2021Keynote |	with um called the free rider problem
+EDL	00:07:46,879	00:07:48,160	| BH2021Keynote |	and the free rider problem is
+EDL	00:07:48,160	00:07:51,599	| BH2021Keynote |	essentially you're providing a service
+EDL	00:07:51,599	00:07:54,080	| BH2021Keynote |	so for example new york subway
+EDL	00:07:54,080	00:07:55,759	| BH2021Keynote |	if five or ten people jump over the
+EDL	00:07:55,759	00:07:57,120	| BH2021Keynote |	styles
+EDL	00:07:57,120	00:07:58,960	| BH2021Keynote |	not a problem new york subway will still
+EDL	00:07:58,960	00:08:01,280	| BH2021Keynote |	operate but if everybody jumps over the
+EDL	00:08:01,280	00:08:04,080	| BH2021Keynote |	stiles and nobody pays for the subway
+EDL	00:08:04,080	00:08:05,759	| BH2021Keynote |	subway will go broke
+
+EDL	00:08:05,759	00:08:08,160	| BH2021Keynote |	right so it can absorb a little bit but
+EDL	00:08:08,160	00:08:10,160	| BH2021Keynote |	it can't absorb everybody doing it and I
+EDL	00:08:10,160	00:08:12,080	| BH2021Keynote |	like to think of sort of the economic
+EDL	00:08:12,080	00:08:16,240	| BH2021Keynote |	model of the internet today driven by ad revenue
+EDL	00:08:16,240	00:08:18,479	| BH2021Keynote |	if a couple of us install ad blockers
+EDL	00:08:18,479	00:08:20,000	| BH2021Keynote |	not a big deal
+EDL	00:08:20,000	00:08:23,759	| BH2021Keynote |	if we all install ad blockers
+EDL	00:08:23,759	00:08:25,120	| BH2021Keynote |	that's a big deal right that
+EDL	00:08:25,120	00:08:27,039	| BH2021Keynote |	fundamentally changes the whole economic
+EDL	00:08:27,039	00:08:29,759	| BH2021Keynote |	model of the internet that would be uh
+EDL	00:08:29,759	00:08:33,200	| BH2021Keynote |	sort of a free writer problem
+
+EDL	00:08:33,200	00:08:34,719	| BH2021Keynote |	and so it's this tension between the
+EDL	00:08:34,719	00:08:37,760	| BH2021Keynote |	short-term self-interest versus long-term
+EDL	00:08:37,760	00:08:41,519	| BH2021Keynote |	collective interest and
+EDL	00:08:41,519	00:08:42,799	| BH2021Keynote |	this is sort of a problem that we're
+EDL	00:08:42,799	00:08:44,800	| BH2021Keynote |	going to be facing in the internet
+EDL	00:08:44,800	00:08:47,760	| BH2021Keynote |	or are facing currently and I think
+EDL	00:08:47,760	00:08:50,959	| BH2021Keynote |	traditionally the way these problems get solved
+EDL	00:08:50,959	00:08:53,519	| BH2021Keynote |	is the individuals take care of themselves
+
+EDL	00:08:53,519	00:08:55,279	| BH2021Keynote |	we all pursue our own self-interest but
+EDL	00:08:55,279	00:08:57,839	| BH2021Keynote |	when it comes to collective interest
+EDL	00:08:57,839	00:08:59,839	| BH2021Keynote |	that's why we form governments
+EDL	00:08:59,839	00:09:02,399	| BH2021Keynote |	that's traditionally the role of governments
+EDL	00:09:02,399	00:09:04,320	| BH2021Keynote |	sometimes companies
+EDL	00:09:04,320	00:09:05,600	| BH2021Keynote |	and so generally the company the
+EDL	00:09:05,600	00:09:07,279	| BH2021Keynote |	government would then legislate they
+EDL	00:09:07,279	00:09:10,000	| BH2021Keynote |	would say okay columbia river river this
+EDL	00:09:10,000	00:09:11,680	| BH2021Keynote |	is how you get to divvy up your water
+EDL	00:09:11,680	00:09:13,839	| BH2021Keynote |	resources it's not whoever's most
+EDL	00:09:13,839	00:09:16,000	| BH2021Keynote |	upstream gets all the water you have to
+EDL	00:09:16,000	00:09:19,360	| BH2021Keynote |	divide it amongst the interested states
+EDL	00:09:19,360	00:09:21,440	| BH2021Keynote |	right or
+EDL	00:09:21,440	00:09:22,880	| BH2021Keynote |	you don't have to be your own fire
+EDL	00:09:22,880	00:09:25,040	| BH2021Keynote |	department we're going to form a fire
+EDL	00:09:25,040	00:09:27,120	| BH2021Keynote |	department tax people and then if
+EDL	00:09:27,120	00:09:29,200	| BH2021Keynote |	there's a fire the collective will help
+EDL	00:09:29,200	00:09:31,200	| BH2021Keynote |	put out the fire right these are certain
+EDL	00:09:31,200	00:09:32,880	| BH2021Keynote |	problems governments do better than
+EDL	00:09:32,880	00:09:34,880	| BH2021Keynote |	individuals or companies
+EDL	00:09:34,880	00:09:37,440	| BH2021Keynote |	and we're starting to see this become
+EDL	00:09:37,440	00:09:38,640	| BH2021Keynote |	in relief
+EDL	00:09:38,640	00:09:40,560	| BH2021Keynote |	in internet security we're starting to
+EDL	00:09:40,560	00:09:43,519	| BH2021Keynote |	face certain problems that are beyond
+EDL	00:09:43,519	00:09:45,519	| BH2021Keynote |	the individual or the company to solve
+EDL	00:09:45,519	00:09:48,320	| BH2021Keynote |	or the ietf or icann or whoever there
+EDL	00:09:48,320	00:09:49,839	| BH2021Keynote |	are certain classes of problems that are
+EDL	00:09:49,839	00:09:52,800	| BH2021Keynote |	really starting to become governmental problems
+EDL	00:09:52,800	00:09:54,480	| BH2021Keynote |	right if it's a nation-state that's
+EDL	00:09:54,480	00:09:56,240	| BH2021Keynote |	 with us
+EDL	00:09:56,240	00:09:58,640	| BH2021Keynote |	and we don't have a governmental response
+EDL	00:09:58,640	00:10:00,959	| BH2021Keynote |	problem's not going to get solved
+EDL	00:10:00,959	00:10:03,920	| BH2021Keynote |	right so the government has to step up
+EDL	00:10:03,920	00:10:05,680	| BH2021Keynote |	and they have to acknowledge that
+EDL	00:10:05,680	00:10:07,760	| BH2021Keynote |	they're the only one in certain
+EDL	00:10:07,760	00:10:09,519	| BH2021Keynote |	categories that can solve these
+EDL	00:10:09,519	00:10:11,440	| BH2021Keynote |	collective issue problems
+EDL	00:10:11,440	00:10:13,680	| BH2021Keynote |	and they have to work with us
+EDL	00:10:13,680	00:10:16,880	| BH2021Keynote |	to come up with the optimum solution
+EDL	00:10:16,880	00:10:18,480	| BH2021Keynote |	and so
+EDL	00:10:18,480	00:10:20,320	| BH2021Keynote |	I think
+EDL	00:10:20,320	00:10:21,920	| BH2021Keynote |	what we have to think of what we have to
+EDL	00:10:21,920	00:10:23,600	| BH2021Keynote |	think about is how do we build these
+EDL	00:10:23,600	00:10:25,360	| BH2021Keynote |	relation relationships who do we trust
+EDL	00:10:25,360	00:10:27,519	| BH2021Keynote |	in government who do we not trust what's
+EDL	00:10:27,519	00:10:30,000	| BH2021Keynote |	worth building what's not what norms are
+EDL	00:10:30,000	00:10:32,320	| BH2021Keynote |	worth building and what ones are we not
+EDL	00:10:32,320	00:10:34,959	| BH2021Keynote |	going to pursue
+EDL	00:10:34,959	00:10:37,200	| BH2021Keynote |	and so
+
+EDL	00:10:37,200	00:10:40,720	| BH2021Keynote |	I'm really excited to introduce Jen easterly who's
+EDL	00:10:40,720	00:10:44,399	| BH2021Keynote |	the new sworn in director of CISSA dhs
+EDL	00:10:44,399	00:10:47,440	| BH2021Keynote |	who's really interested in building community
+EDL	00:10:47,440	00:10:49,360	| BH2021Keynote |	and it'll be up to us to decide if we
+EDL	00:10:49,360	00:10:51,040	| BH2021Keynote |	you know participate
+EDL	00:10:51,040	00:10:53,680	| BH2021Keynote |	but this is the kind of initiative that
+EDL	00:10:53,680	00:10:55,599	| BH2021Keynote |	governments would traditionally engage in 
+EDL	00:10:55,599	00:10:57,040	| BH2021Keynote |	right they would come to the subject
+EDL	00:10:57,040	00:10:59,360	| BH2021Keynote |	matter experts they would say hey listen
+EDL	00:10:59,360	00:11:00,959	| BH2021Keynote |	we have a certain set of authorities we
+EDL	00:11:00,959	00:11:02,720	| BH2021Keynote |	can do these things you can do those
+EDL	00:11:02,720	00:11:05,279	| BH2021Keynote |	things how we together going to solve
+EDL	00:11:05,279	00:11:07,120	| BH2021Keynote |	some of these problems
+EDL	00:11:07,120	00:11:08,160	| BH2021Keynote |	because we're not going to be able to
+EDL	00:11:08,160	00:11:10,480	| BH2021Keynote |	solve it alone and especially not with
+EDL	00:11:10,480	00:11:12,720	| BH2021Keynote |	pressure from team authoritarian that's
+EDL	00:11:12,720	00:11:14,480	| BH2021Keynote |	going to be poking us at just the worst
+EDL	00:11:14,480	00:11:16,640	| BH2021Keynote |	time in the worst place right we have to
+EDL	00:11:16,640	00:11:19,200	| BH2021Keynote |	acknowledge these real challenges and
+EDL	00:11:19,200	00:11:22,160	| BH2021Keynote |	despite the mythology that we can build
+EDL	00:11:22,160	00:11:23,680	| BH2021Keynote |	the internet alone and run the internet
+EDL	00:11:23,680	00:11:26,000	| BH2021Keynote |	alone we're going to have to actually
+EDL	00:11:26,000	00:11:28,320	| BH2021Keynote |	participate in a more of a larger
+EDL	00:11:28,320	00:11:30,320	| BH2021Keynote |	collective if we want to see the
+EDL	00:11:30,320	00:11:31,920	| BH2021Keynote |	internet
+EDL	00:11:31,920	00:11:33,040	| BH2021Keynote |	remain
+EDL	00:11:33,040	00:11:36,480	| BH2021Keynote |	more open and accessible
+
+EDL	00:11:36,480	00:11:37,279	| BH2021Keynote |	so
+EDL	00:11:37,279	00:11:39,200	| BH2021Keynote |	a little bit about Jen
+EDL	00:11:39,200	00:11:41,040	| BH2021Keynote |	she's kind of done everything in the
+EDL	00:11:41,040	00:11:43,040	| BH2021Keynote |	government she um
+EDL	00:11:43,040	00:11:45,040	| BH2021Keynote |	it's interesting a past keynote speaker
+EDL	00:11:45,040	00:11:47,519	| BH2021Keynote |	black hat um
+EDL	00:11:47,519	00:11:49,920	| BH2021Keynote |	uh Jane Lute actually was her teacher at
+EDL	00:11:49,920	00:11:51,200	| BH2021Keynote |	west point
+EDL	00:11:51,200	00:11:53,360	| BH2021Keynote |	and so it's sort of like one generation
+EDL	00:11:53,360	00:11:55,120	| BH2021Keynote |	uh educating another
+EDL	00:11:55,120	00:11:57,680	| BH2021Keynote |	and so Jen was in the u.s army for 20
+EDL	00:11:57,680	00:11:59,440	| BH2021Keynote |	years and was a professor of social
+EDL	00:11:59,440	00:12:03,760	| BH2021Keynote |	sciences at the united states military academy
+EDL	00:12:03,760	00:12:06,720	| BH2021Keynote |	and then in 2002 to 2004 she was an
+EDL	00:12:06,720	00:12:11,360	| BH2021Keynote |	executive assistant to the national security advisor
+EDL	00:12:11,360	00:12:14,240	| BH2021Keynote |	she was in 2004-2006 she was a battalion
+EDL	00:12:14,240	00:12:16,320	| BH2021Keynote |	executive officer and brigade operations
+EDL	00:12:16,320	00:12:17,920	| BH2021Keynote |	officer at the united states army
+EDL	00:12:17,920	00:12:20,639	| BH2021Keynote |	intelligence and security command
+EDL	00:12:20,639	00:12:23,040	| BH2021Keynote |	and then more recently
+EDL	00:12:23,040	00:12:26,160	| BH2021Keynote |	with cyber experience 2009 2010 she was
+EDL	00:12:26,160	00:12:27,519	| BH2021Keynote |	at the United States Cyber Command and
+EDL	00:12:27,519	00:12:30,079	| BH2021Keynote |	helped stand up that command
+
+EDL	00:12:30,079	00:12:32,639	| BH2021Keynote |	from 2010 to 11 she was a cyber advisor
+EDL	00:12:32,639	00:12:36,800	| BH2021Keynote |	for the national security advisor stationed in kabul
+EDL	00:12:36,800	00:12:39,600	| BH2021Keynote |	and then she retired from the army uh as
+EDL	00:12:39,600	00:12:40,959	| BH2021Keynote |	a lieutenant colonel
+EDL	00:12:40,959	00:12:42,560	| BH2021Keynote |	and then served as the deputy director
+EDL	00:12:42,560	00:12:44,480	| BH2021Keynote |	for the NSA national security advisor
+EDL	00:12:44,480	00:12:46,959	| BH2021Keynote |	for counter-terrorism
+
+EDL	00:12:46,959	00:12:50,399	| BH2021Keynote |	and then in 2013 to 2016 she was a
+EDL	00:12:50,399	00:12:53,760	| BH2021Keynote |	special assistant to president uh obama
+EDL	00:12:53,760	00:12:54,720	| BH2021Keynote |	and senior director for
+EDL	00:12:54,720	00:12:57,920	| BH2021Keynote |	counter-terrorism on the national security council
+EDL	00:12:57,920	00:12:59,680	| BH2021Keynote |	and at the very end after the
+EDL	00:12:59,680	00:13:02,480	| BH2021Keynote |	administration she went into the private sector
+EDL	00:13:02,480	00:13:05,040	| BH2021Keynote |	probably for the first time
+
+EDL	00:13:05,040	00:13:08,000	| BH2021Keynote |	and became the global head of the cyber
+EDL	00:13:08,000	00:13:11,279	| BH2021Keynote |	security division for Morgan Stanley
+
+EDL	00:13:11,279	00:13:13,519	| BH2021Keynote |	and now has come back into government uh
+EDL	00:13:13,519	00:13:15,920	| BH2021Keynote |	just this last month as the assistant
+EDL	00:13:15,920	00:13:17,839	| BH2021Keynote |	director and she's going to highlight
+EDL	00:13:17,839	00:13:20,720	| BH2021Keynote |	the scope and scale of threats to our
+EDL	00:13:20,720	00:13:23,040	| BH2021Keynote |	cyber infrastructure and how hackers
+EDL	00:13:23,040	00:13:24,800	| BH2021Keynote |	the government and the private sector
+EDL	00:13:24,800	00:13:26,560	| BH2021Keynote |	can work together to try to secure the
+EDL	00:13:26,560	00:13:28,240	| BH2021Keynote |	nation from these threats
+EDL	00:13:28,240	00:13:29,040	| BH2021Keynote |	so
+EDL	00:13:29,040	00:13:30,560	| BH2021Keynote |	I'm interested in hearing her story of
+EDL	00:13:30,560	00:13:32,639	| BH2021Keynote |	how she got to where she is and her
+EDL	00:13:32,639	00:13:34,880	| BH2021Keynote |	thoughts on what sissa can possibly do
+EDL	00:13:34,880	00:13:39,420	| BH2021Keynote |	to help us so take it away Jen thank you
+EDL	00:13:39,420	00:13:39,800	| BH2021Keynote |	[Applause]
+EDL	00:13:39,800	00:13:43,040	| BH2021Keynote |	[Music]
+EDL	00:13:43,040	00:13:43,600	| BH2021Keynote |	[ SPACE 0.6 secs ]
+
+* Jen
+EDL	00:13:43,600	00:13:45,040	| BH2021Keynote |	thanks so much Jeff for that kind
+EDL	00:13:45,040	00:13:47,040	| BH2021Keynote |	introduction I'm Jen easterly I'm the
+EDL	00:13:47,040	00:13:48,800	| BH2021Keynote |	director of the cyber security and
+EDL	00:13:48,800	00:13:51,040	| BH2021Keynote |	infrastructure security agency and I'm
+EDL	00:13:51,040	00:13:53,680	| BH2021Keynote |	so honored to be a part of black hat
+EDL	00:13:53,680	00:13:55,360	| BH2021Keynote |	it's one of my first official duties
+EDL	00:13:55,360	00:13:57,120	| BH2021Keynote |	since I was sworn in
+EDL	00:13:57,120	00:13:58,800	| BH2021Keynote |	some three and a half weeks ago and as
+EDL	00:13:58,800	00:14:01,519	| BH2021Keynote |	part of that I want to lay to rest what
+EDL	00:14:01,519	00:14:04,240	| BH2021Keynote |	I am told is a hotly debated topic and
+EDL	00:14:04,240	00:14:06,800	| BH2021Keynote |	that is the pronunciation
+EDL	00:14:06,800	00:14:08,320	| BH2021Keynote |	of my agency
+EDL	00:14:08,320	00:14:09,199	| BH2021Keynote |	it's
+EDL	00:14:09,199	00:14:10,890	| BH2021Keynote |	sissa
+EDL	00:14:10,890	00:14:18,160	| BH2021Keynote |	[Music]
+EDL	00:14:18,160	00:14:20,160	| BH2021Keynote |	seriously it's not that hard it is
+EDL	00:14:20,160	00:14:22,079	| BH2021Keynote |	pronounced sissa
+EDL	00:14:22,079	00:14:24,560	| BH2021Keynote |	but seriously I am really honored and
+EDL	00:14:24,560	00:14:25,760	| BH2021Keynote |	thrilled to be with you here today
+EDL	00:14:25,760	00:14:29,680	| BH2021Keynote |	because I need your help
+
+EDL	00:14:29,680	00:14:31,839	| BH2021Keynote |	but before I start making demands of you
+EDL	00:14:31,839	00:14:33,680	| BH2021Keynote |	I figured I should introduce myself a
+EDL	00:14:33,680	00:14:35,760	| BH2021Keynote |	little bit so you get to know me
+EDL	00:14:35,760	00:14:37,920	| BH2021Keynote |	and hopefully appreciate
+EDL	00:14:37,920	00:14:39,440	| BH2021Keynote |	where I come from
+EDL	00:14:39,440	00:14:41,680	| BH2021Keynote |	what's important to me how I plan to
+EDL	00:14:41,680	00:14:43,920	| BH2021Keynote |	lead system most importantly how I want
+EDL	00:14:43,920	00:14:46,240	| BH2021Keynote |	to partner with all of you
+
+EDL	00:14:46,240	00:14:47,760	| BH2021Keynote |	now I know you're going to find this
+EDL	00:14:47,760	00:14:52,480	| BH2021Keynote |	really hard to believe but I was a bit of a nerdy kid
+EDL	00:14:52,480	00:14:57,519	| BH2021Keynote |	so I wasn't very good at sports I wasn't very popular
+EDL	00:14:57,519	00:15:01,360	| BH2021Keynote |	I did well in school I played piano pretty poorly
+EDL	00:15:01,360	00:15:05,760	| BH2021Keynote |	but the thing that I loved most were puzzles and games
+EDL	00:15:05,760	00:15:07,760	| BH2021Keynote |	card games board games video games and
+
+** rubik's cube
+EDL	00:15:07,760	00:15:12,880	| BH2021Keynote |	at the age of 11 I became obsessed with the rubik's cube
+EDL	00:15:12,880	00:15:15,040	| BH2021Keynote |	now you may know that the rubik's cube
+EDL	00:15:15,040	00:15:17,360	| BH2021Keynote |	was invented by hungarian sculptor erno
+EDL	00:15:17,360	00:15:19,839	| BH2021Keynote |	rubik in the year 1974 but it wasn't
+EDL	00:15:19,839	00:15:21,680	| BH2021Keynote |	introduced until the world
+EDL	00:15:21,680	00:15:24,000	| BH2021Keynote |	until 1980 and it caused of course an
+EDL	00:15:24,000	00:15:26,560	| BH2021Keynote |	international sensation and as I said
+EDL	00:15:26,560	00:15:28,399	| BH2021Keynote |	I became obsessed
+EDL	00:15:28,399	00:15:30,320	| BH2021Keynote |	with solving it
+EDL	00:15:30,320	00:15:32,399	| BH2021Keynote |	and so I spent quite a while and I
+EDL	00:15:32,399	00:15:34,160	| BH2021Keynote |	finally figured it out
+EDL	00:15:34,160	00:15:35,680	| BH2021Keynote |	and then much to the amusement of my
+EDL	00:15:35,680	00:15:38,240	| BH2021Keynote |	parents I would go around to toy stores
+EDL	00:15:38,240	00:15:39,920	| BH2021Keynote |	in the local area and toy stores and we
+EDL	00:15:39,920	00:15:41,440	| BH2021Keynote |	were traveling I would make a bet with
+EDL	00:15:41,440	00:15:43,600	| BH2021Keynote |	the toy store clerk or the owner that if
+EDL	00:15:43,600	00:15:45,519	| BH2021Keynote |	I could solve the cube in less than two
+EDL	00:15:45,519	00:15:47,839	| BH2021Keynote |	minutes then they would give me a free one
+EDL	00:15:47,839	00:15:50,240	| BH2021Keynote |	now I know you can go on youtube today
+EDL	00:15:50,240	00:15:52,000	| BH2021Keynote |	and see a two-year-old solving the
+EDL	00:15:52,000	00:15:54,800	| BH2021Keynote |	rubik's cube with her toes in 11.4
+EDL	00:15:54,800	00:15:56,399	| BH2021Keynote |	seconds but back then
+EDL	00:15:56,399	00:15:58,399	| BH2021Keynote |	two minutes was a really big deal I mean
+EDL	00:15:58,399	00:16:00,560	| BH2021Keynote |	it took erno rubik a full month to solve
+EDL	00:16:00,560	00:16:03,199	| BH2021Keynote |	the cube and he invented the thing
+EDL	00:16:03,199	00:16:05,279	| BH2021Keynote |	so you know after a while I was able to
+EDL	00:16:05,279	00:16:07,920	| BH2021Keynote |	amass a pretty good collection of cubes
+EDL	00:16:07,920	00:16:10,880	| BH2021Keynote |	but this love of puzzles really stayed
+EDL	00:16:10,880	00:16:13,120	| BH2021Keynote |	with me throughout my career and
+EDL	00:16:13,120	00:16:17,519	| BH2021Keynote |	manifested into a love for problem solving
+
+** 18th birthday
+EDL	00:16:17,519	00:16:19,440	| BH2021Keynote |	so fast forward a couple years later
+EDL	00:16:19,440	00:16:22,079	| BH2021Keynote |	just after my 18th birthday I did what
+EDL	00:16:22,079	00:16:24,560	| BH2021Keynote |	most nice jewish girls from middle class
+EDL	00:16:24,560	00:16:26,959	| BH2021Keynote |	families do I went off to the united
+EDL	00:16:26,959	00:16:29,279	| BH2021Keynote |	states military academy at west point
+EDL	00:16:29,279	00:16:31,360	| BH2021Keynote |	okay none of my classmates did that I
+EDL	00:16:31,360	00:16:33,279	| BH2021Keynote |	was the only one but in addition to
+EDL	00:16:33,279	00:16:35,360	| BH2021Keynote |	growing up with a love for puzzles I
+EDL	00:16:35,360	00:16:38,079	| BH2021Keynote |	grew up with a real deep appreciation of
+EDL	00:16:38,079	00:16:40,000	| BH2021Keynote |	public service my dad was a vietnam
+EDL	00:16:40,000	00:16:41,680	| BH2021Keynote |	veteran both my parents served in
+EDL	00:16:41,680	00:16:44,320	| BH2021Keynote |	government and I felt that it was really
+EDL	00:16:44,320	00:16:46,160	| BH2021Keynote |	important to serve the nation I knew I
+EDL	00:16:46,160	00:16:47,600	| BH2021Keynote |	wanted to be in the army I wanted to go
+EDL	00:16:47,600	00:16:49,040	| BH2021Keynote |	to west point
+EDL	00:16:49,040	00:16:50,639	| BH2021Keynote |	so I headed off there in the summer of
+EDL	00:16:50,639	00:16:53,600	| BH2021Keynote |	1986 I was part of the tenth class of
+EDL	00:16:53,600	00:16:55,360	| BH2021Keynote |	women to enter west point we were just
+EDL	00:16:55,360	00:16:58,320	| BH2021Keynote |	about nine percent of the population
+EDL	00:16:58,320	00:17:01,680	| BH2021Keynote |	interestingly we were the first class of cadets to be
+EDL	00:17:01,680	00:17:07,280	| BH2021Keynote |	uh to be issued computers the mighty zenith z248
+EDL	00:17:07,280	00:17:09,679	| BH2021Keynote |	so again showed up in the summer of 1986
+EDL	00:17:09,679	00:17:12,160	| BH2021Keynote |	now I had applied early I had been
+EDL	00:17:12,160	00:17:14,400	| BH2021Keynote |	accepted early but I made a very serious
+EDL	00:17:14,400	00:17:17,280	| BH2021Keynote |	error I had never visited the school
+EDL	00:17:17,280	00:17:20,559	| BH2021Keynote |	so when I showed up in that summer hot day
+EDL	00:17:20,559	00:17:22,559	| BH2021Keynote |	I was ill prepared for the physical
+EDL	00:17:22,559	00:17:24,640	| BH2021Keynote |	rigors the mental stresses the emotional
+EDL	00:17:24,640	00:17:26,640	| BH2021Keynote |	pressures I remember I showed up they
+EDL	00:17:26,640	00:17:29,039	| BH2021Keynote |	took away my civilian clothes gave me a
+EDL	00:17:29,039	00:17:30,960	| BH2021Keynote |	white t-shirt with my last name these
+EDL	00:17:30,960	00:17:34,240	| BH2021Keynote |	ugly black acrylic shorts with gold piping
+EDL	00:17:34,240	00:17:35,919	| BH2021Keynote |	black socks we had to pull up to our
+EDL	00:17:35,919	00:17:38,240	| BH2021Keynote |	knees black leather shoes they hacked
+EDL	00:17:38,240	00:17:40,320	| BH2021Keynote |	off my hair I failed my first two mile
+EDL	00:17:40,320	00:17:42,640	| BH2021Keynote |	run and I got yelled at
+EDL	00:17:42,640	00:17:44,000	| BH2021Keynote |	a lot
+
+EDL	00:17:44,000	00:17:46,640	| BH2021Keynote |	and every night I thought about
+EDL	00:17:46,640	00:17:48,640	| BH2021Keynote |	quitting and going home but
+EDL	00:17:48,640	00:17:50,000	| BH2021Keynote |	every morning
+EDL	00:17:50,000	00:17:52,559	| BH2021Keynote |	I recommitted myself to improving and
+EDL	00:17:52,559	00:17:54,080	| BH2021Keynote |	getting through that difficult summer I
+EDL	00:17:54,080	00:17:56,559	| BH2021Keynote |	was really looking at it as a puzzle to
+EDL	00:17:56,559	00:17:58,960	| BH2021Keynote |	be solved and this time it was actually
+EDL	00:17:58,960	00:18:01,360	| BH2021Keynote |	more enjoyable because I was solving it
+EDL	00:18:01,360	00:18:03,919	| BH2021Keynote |	with a group of teammates
+
+** Graduated
+
+EDL	00:18:03,919	00:18:05,760	| BH2021Keynote |	so I was able to get through that
+EDL	00:18:05,760	00:18:08,640	| BH2021Keynote |	difficult summer and made it four years
+EDL	00:18:08,640	00:18:11,520	| BH2021Keynote |	through west point graduated in 1990 it
+EDL	00:18:11,520	00:18:12,400	| BH2021Keynote |	was the
+EDL	00:18:12,400	00:18:14,880	| BH2021Keynote |	end of the cold war those four years in
+EDL	00:18:14,880	00:18:16,640	| BH2021Keynote |	minoring in russian didn't seem so smart
+EDL	00:18:16,640	00:18:18,960	| BH2021Keynote |	anymore it was the self-proclaimed end
+EDL	00:18:18,960	00:18:20,880	| BH2021Keynote |	of history the fall of the berlin wall
+EDL	00:18:20,880	00:18:22,960	| BH2021Keynote |	that followed the soviet union the
+EDL	00:18:22,960	00:18:24,559	| BH2021Keynote |	triumph of the liberal international
+EDL	00:18:24,559	00:18:26,880	| BH2021Keynote |	order over communism and autocracy peace
+EDL	00:18:26,880	00:18:28,480	| BH2021Keynote |	was breaking out all over
+EDL	00:18:28,480	00:18:30,400	| BH2021Keynote |	and I thought I'd only be in the army
+EDL	00:18:30,400	00:18:32,080	| BH2021Keynote |	for a few years and I'd get out and do
+EDL	00:18:32,080	00:18:34,080	| BH2021Keynote |	something else but
+EDL	00:18:34,080	00:18:36,720	| BH2021Keynote |	over the next 10 years the opportunities
+EDL	00:18:36,720	00:18:38,480	| BH2021Keynote |	that I had to be on peacekeeping
+EDL	00:18:38,480	00:18:40,720	| BH2021Keynote |	operations in haiti and in bosnia to be
+EDL	00:18:40,720	00:18:43,039	| BH2021Keynote |	a paratrooper jumping out of airplanes
+EDL	00:18:43,039	00:18:44,640	| BH2021Keynote |	at fort bragg north carolina the
+EDL	00:18:44,640	00:18:47,039	| BH2021Keynote |	excitement the challenges of leadership
+EDL	00:18:47,039	00:18:48,799	| BH2021Keynote |	the many puzzles and problems to be
+EDL	00:18:48,799	00:18:51,360	| BH2021Keynote |	solved really kept me in the army and I
+EDL	00:18:51,360	00:18:54,080	| BH2021Keynote |	found myself back at west point 10 years
+EDL	00:18:54,080	00:18:56,559	| BH2021Keynote |	after graduating teaching economics and
+EDL	00:18:56,559	00:19:00,000	| BH2021Keynote |	security to cadets and I was there on
+EDL	00:19:00,000	00:19:02,720	| BH2021Keynote |	september 11th and I remember
+EDL	00:19:02,720	00:19:04,400	| BH2021Keynote |	that morning I was getting ready to
+EDL	00:19:04,400	00:19:07,120	| BH2021Keynote |	teach a class to cadets who until that
+EDL	00:19:07,120	00:19:08,840	| BH2021Keynote |	bright beautiful
+EDL	00:19:08,840	00:19:10,960	| BH2021Keynote |	tuesday thought they'd be graduating
+EDL	00:19:10,960	00:19:12,320	| BH2021Keynote |	into a world
+EDL	00:19:12,320	00:19:14,240	| BH2021Keynote |	where the army would likely shrink in
+EDL	00:19:14,240	00:19:16,480	| BH2021Keynote |	size and they'd spend most of their time
+EDL	00:19:16,480	00:19:18,799	| BH2021Keynote |	planning or doing exercises
+
+** 911
+EDL	00:19:18,799	00:19:21,039	| BH2021Keynote |	and then the planes hit
+EDL	00:19:21,039	00:19:23,760	| BH2021Keynote |	in new york in washington dc in a field
+EDL	00:19:23,760	00:19:25,600	| BH2021Keynote |	in pennsylvania and the world changed as
+EDL	00:19:25,600	00:19:27,600	| BH2021Keynote |	we all know I remember
+EDL	00:19:27,600	00:19:30,799	| BH2021Keynote |	watching the towers fall on tv
+EDL	00:19:30,799	00:19:32,960	| BH2021Keynote |	hundreds of floors of steel and glass
+EDL	00:19:32,960	00:19:34,880	| BH2021Keynote |	exploding in the air signaling the
+EDL	00:19:34,880	00:19:38,400	| BH2021Keynote |	deaths of thousands 2977
+EDL	00:19:38,400	00:19:40,799	| BH2021Keynote |	people died that day from 90 countries
+EDL	00:19:40,799	00:19:43,919	| BH2021Keynote |	around the world
+
+EDL	00:19:43,919	00:19:46,640	| BH2021Keynote |	and then just a few years later I found
+EDL	00:19:46,640	00:19:47,760	| BH2021Keynote |	myself
+EDL	00:19:47,760	00:19:50,080	| BH2021Keynote |	sitting behind my then boss national
+EDL	00:19:50,080	00:19:52,559	| BH2021Keynote |	security advisor condoleezza rice says
+EDL	00:19:52,559	00:19:54,640	| BH2021Keynote |	she was testifying before the 9 11
+EDL	00:19:54,640	00:19:57,039	| BH2021Keynote |	commission that was set up to
+EDL	00:19:57,039	00:19:58,880	| BH2021Keynote |	investigate the government's failure to
+EDL	00:19:58,880	00:20:00,720	| BH2021Keynote |	prevent those attacks
+
+** A failure of imagination
+
+EDL	00:20:00,720	00:20:03,200	| BH2021Keynote |	and I remember being struck by the words
+EDL	00:20:03,200	00:20:05,280	| BH2021Keynote |	of the co-chairman of the 911 commission
+EDL	00:20:05,280	00:20:06,880	| BH2021Keynote |	Tom Kane who said
+EDL	00:20:06,880	00:20:10,240	| BH2021Keynote |	on that September day we were unprepared
+EDL	00:20:10,240	00:20:12,400	| BH2021Keynote |	we did not grasp the magnitude of a
+EDL	00:20:12,400	00:20:14,000	| BH2021Keynote |	threat that had been growing for some
+EDL	00:20:14,000	00:20:15,919	| BH2021Keynote |	considerable amount of time it was a
+EDL	00:20:15,919	00:20:17,600	| BH2021Keynote |	failure of policy
+
+EDL	00:20:17,600	00:20:19,200	| BH2021Keynote |	a failure of management a failure of
+EDL	00:20:19,200	00:20:20,960	| BH2021Keynote |	capability but above all
+EDL	00:20:20,960	00:20:24,720	| BH2021Keynote |	a failure of imagination
+
+EDL	00:20:24,720	00:20:28,080	| BH2021Keynote |	I was totally struck by that
+EDL	00:20:28,080	00:20:30,240	| BH2021Keynote |	and you know Albert Einstein
+EDL	00:20:30,240	00:20:32,960	| BH2021Keynote |	has said imagination is more important
+EDL	00:20:32,960	00:20:34,559	| BH2021Keynote |	than knowledge knowledge is limited
+EDL	00:20:34,559	00:20:36,559	| BH2021Keynote |	while imagination embraces the entire
+EDL	00:20:36,559	00:20:38,799	| BH2021Keynote |	world stimulating progress giving birth
+EDL	00:20:38,799	00:20:41,200	| BH2021Keynote |	to evolution he warned do not sacrifice
+EDL	00:20:41,200	00:20:43,200	| BH2021Keynote |	your imagination on the altar of crude
+EDL	00:20:43,200	00:20:45,360	| BH2021Keynote |	reality you'll wind up believing in
+EDL	00:20:45,360	00:20:48,640	| BH2021Keynote |	nothing and having worthless dreams
+
+EDL	00:20:48,640	00:20:50,480	| BH2021Keynote |	I have to say I agree with that I
+EDL	00:20:50,480	00:20:52,720	| BH2021Keynote |	believe that imagination is more
+EDL	00:20:52,720	00:20:54,000	| BH2021Keynote |	important than knowledge you know we
+EDL	00:20:54,000	00:20:55,520	| BH2021Keynote |	sometimes dismiss
+EDL	00:20:55,520	00:20:57,360	| BH2021Keynote |	those of wild imagination as these
+EDL	00:20:57,360	00:20:59,760	| BH2021Keynote |	impractical dreamers who waste our time
+EDL	00:20:59,760	00:21:01,760	| BH2021Keynote |	but as those of wild and wild
+EDL	00:21:01,760	00:21:04,559	| BH2021Keynote |	imagination who've given us our most
+EDL	00:21:04,559	00:21:06,799	| BH2021Keynote |	important and impactful
+EDL	00:21:06,799	00:21:08,640	| BH2021Keynote |	inventions
+
+
+EDL	00:21:08,640	00:21:11,280	| BH2021Keynote |	light and flight and power and code
+EDL	00:21:11,280	00:21:12,960	| BH2021Keynote |	who've put a woman in space who've
+EDL	00:21:12,960	00:21:14,559	| BH2021Keynote |	allowed us to communicate
+EDL	00:21:14,559	00:21:16,480	| BH2021Keynote |	instantaneously with others around the
+EDL	00:21:16,480	00:21:18,559	| BH2021Keynote |	globe it's those of wild imagine
+EDL	00:21:18,559	00:21:20,720	| BH2021Keynote |	imagination who've helped us solve our
+EDL	00:21:20,720	00:21:22,960	| BH2021Keynote |	most complicated puzzles
+EDL	00:21:22,960	00:21:25,039	| BH2021Keynote |	imagination brings resilience and
+EDL	00:21:25,039	00:21:27,280	| BH2021Keynote |	innovation it makes us better leaders
+EDL	00:21:27,280	00:21:29,760	| BH2021Keynote |	makes us better technologists
+EDL	00:21:29,760	00:21:32,240	| BH2021Keynote |	makes us better hackers
+
+** My career
+EDL	00:21:32,240	00:21:34,799	| BH2021Keynote |	so I've spent the last decades of my
+EDL	00:21:34,799	00:21:36,000	| BH2021Keynote |	career
+EDL	00:21:36,000	00:21:38,000	| BH2021Keynote |	honing my own imagination to try and
+EDL	00:21:38,000	00:21:39,840	| BH2021Keynote |	build technologies and teams to deal
+EDL	00:21:39,840	00:21:41,360	| BH2021Keynote |	with the most serious threats to the
+EDL	00:21:41,360	00:21:43,440	| BH2021Keynote |	nation from terrorists and cyber threat
+EDL	00:21:43,440	00:21:45,440	| BH2021Keynote |	actors and I want to tell you a little
+EDL	00:21:45,440	00:21:47,679	| BH2021Keynote |	bit about that journey so again you know
+EDL	00:21:47,679	00:21:50,720	| BH2021Keynote |	who I am and how I want to partner with you
+
+** 2007. Baghdad
+EDL	00:21:50,720	00:21:54,240	| BH2021Keynote |	and I want to take you to the year 2007
+EDL	00:21:54,240	00:21:56,720	| BH2021Keynote |	in Baghdad I was a young lieutenant
+EDL	00:21:56,720	00:21:58,480	| BH2021Keynote |	colonel in the army I was deployed there
+EDL	00:21:58,480	00:22:01,200	| BH2021Keynote |	with the national security agency
+EDL	00:22:01,200	00:22:02,960	| BH2021Keynote |	as part of our effort to bring national
+EDL	00:22:02,960	00:22:04,720	| BH2021Keynote |	level intelligence to the troops on the
+EDL	00:22:04,720	00:22:07,440	| BH2021Keynote |	ground it was the height of the violence
+EDL	00:22:07,440	00:22:09,039	| BH2021Keynote |	during the surge
+EDL	00:22:09,039	00:22:11,360	| BH2021Keynote |	Al Qaeda in Iraq had perfected their
+EDL	00:22:11,360	00:22:13,039	| BH2021Keynote |	ability to make these bombs out of
+EDL	00:22:13,039	00:22:14,960	| BH2021Keynote |	improvised explosive devices and it was
+EDL	00:22:14,960	00:22:17,520	| BH2021Keynote |	having catastrophic impacts on Iraqi
+EDL	00:22:17,520	00:22:19,360	| BH2021Keynote |	civilians and our troops on the ground
+
+EDL	00:22:19,360	00:22:21,039	| BH2021Keynote |	and one of the things that my team and I
+EDL	00:22:21,039	00:22:23,120	| BH2021Keynote |	were asked to do was to operationalize
+EDL	00:22:23,120	00:22:25,679	| BH2021Keynote |	this new high technology platform called
+EDL	00:22:25,679	00:22:29,039	| BH2021Keynote |	real-time regional gateway or RTRG
+EDL	00:22:29,039	00:22:31,360	| BH2021Keynote |	it was highly classified at the time
+EDL	00:22:31,360	00:22:33,039	| BH2021Keynote |	declassified a couple years ago and the
+EDL	00:22:33,039	00:22:34,159	| BH2021Keynote |	idea was
+EDL	00:22:34,159	00:22:36,080	| BH2021Keynote |	we were trying to take all of the
+EDL	00:22:36,080	00:22:38,720	| BH2021Keynote |	collection available from traditional
+EDL	00:22:38,720	00:22:42,640	| BH2021Keynote |	streams of intel like satellite and cell phones to
+EDL	00:22:42,640	00:22:45,200	| BH2021Keynote |	reporting about insurgent activity on
+EDL	00:22:45,200	00:22:46,880	| BH2021Keynote |	the ground to take all of that data
+EDL	00:22:46,880	00:22:48,640	| BH2021Keynote |	together and enrich it and integrate it
+EDL	00:22:48,640	00:22:51,039	| BH2021Keynote |	and correlate it to help us illuminate
+EDL	00:22:51,039	00:22:52,960	| BH2021Keynote |	terrorist networks not in weeks or days
+EDL	00:22:52,960	00:22:56,240	| BH2021Keynote |	but in hours and minutes
+
+EDL	00:22:56,240	00:22:58,640	| BH2021Keynote |	my team sat in a van and a base in the
+EDL	00:22:58,640	00:23:01,039	| BH2021Keynote |	middle of Baghdad violence all around
+EDL	00:23:01,039	00:23:03,200	| BH2021Keynote |	trying to code up the system I used to
+EDL	00:23:03,200	00:23:06,000	| BH2021Keynote |	think of it as extreme coding
+EDL	00:23:06,000	00:23:08,320	| BH2021Keynote |	and I will tell you there were many many
+EDL	00:23:08,320	00:23:10,240	| BH2021Keynote |	failures in that first month as we tried
+EDL	00:23:10,240	00:23:11,760	| BH2021Keynote |	to get the system up and running but
+EDL	00:23:11,760	00:23:13,840	| BH2021Keynote |	there was no failure of imagination
+EDL	00:23:13,840	00:23:16,080	| BH2021Keynote |	there was actually a really strong
+EDL	00:23:16,080	00:23:18,320	| BH2021Keynote |	presence of it with that great team and
+EDL	00:23:18,320	00:23:19,679	| BH2021Keynote |	after a while we were able to
+EDL	00:23:19,679	00:23:21,919	| BH2021Keynote |	successfully get the system up and
+EDL	00:23:21,919	00:23:23,840	| BH2021Keynote |	running and it provided a capability to
+EDL	00:23:23,840	00:23:25,760	| BH2021Keynote |	the troops on the ground that
+EDL	00:23:25,760	00:23:27,280	| BH2021Keynote |	helped them to take thousands of
+EDL	00:23:27,280	00:23:29,840	| BH2021Keynote |	insurgents off the battlefield and save
+EDL	00:23:29,840	00:23:31,600	| BH2021Keynote |	lives and to me
+EDL	00:23:31,600	00:23:34,880	| BH2021Keynote |	it was an epiphany it was really
+EDL	00:23:34,880	00:23:37,440	| BH2021Keynote |	the power of technology and the power of
+EDL	00:23:37,440	00:23:38,960	| BH2021Keynote |	imagination and the power of
+EDL	00:23:38,960	00:23:40,400	| BH2021Keynote |	collaboration
+EDL	00:23:40,400	00:23:42,799	| BH2021Keynote |	uh really hit home for me
+EDL	00:23:42,799	00:23:44,960	| BH2021Keynote |	the power of all of that to actually
+EDL	00:23:44,960	00:23:48,480	| BH2021Keynote |	save lives and make a difference for the nation
+
+EDL	00:23:48,480	00:23:51,279	| BH2021Keynote |	now a few months after I redeployed from
+EDL	00:23:51,279	00:23:53,679	| BH2021Keynote |	Baghdad the director of the National
+EDL	00:23:53,679	00:23:55,360	| BH2021Keynote |	Security Agency at the time general
+EDL	00:23:55,360	00:23:57,840	| BH2021Keynote |	Keith Alexander asked me to stand up the
+EDL	00:23:57,840	00:24:00,080	| BH2021Keynote |	army's first cyber operations battalion
+EDL	00:24:00,080	00:24:01,600	| BH2021Keynote |	and my team and I did that in the summer
+EDL	00:24:01,600	00:24:04,080	| BH2021Keynote |	of 2008 we called it the Army Network
+EDL	00:24:04,080	00:24:05,919	| BH2021Keynote |	Warfare Battalion
+EDL	00:24:05,919	00:24:08,400	| BH2021Keynote |	now a few months after that the military
+EDL	00:24:08,400	00:24:10,480	| BH2021Keynote |	the department of defense suffered its
+EDL	00:24:10,480	00:24:12,080	| BH2021Keynote |	most devastating
+EDL	00:24:12,080	00:24:13,919	| BH2021Keynote |	cyber attack when an infected thumb
+EDL	00:24:13,919	00:24:15,840	| BH2021Keynote |	drive was inserted into a laptop at a
+EDL	00:24:15,840	00:24:17,679	| BH2021Keynote |	base in the middle east allowing
+EDL	00:24:17,679	00:24:19,360	| BH2021Keynote |	malicious code to spiral through
+EDL	00:24:19,360	00:24:21,520	| BH2021Keynote |	networks and for sensitive data to be
+EDL	00:24:21,520	00:24:24,320	| BH2021Keynote |	exfiltrated and it was a huge wake-up call
+
+EDL	00:24:24,320	00:24:26,159	| BH2021Keynote |	that the military really needed to
+EDL	00:24:26,159	00:24:28,240	| BH2021Keynote |	maneuver differently in this new domain
+EDL	00:24:28,240	00:24:30,240	| BH2021Keynote |	called cyberspace and that it would
+EDL	00:24:30,240	00:24:32,400	| BH2021Keynote |	require a new type of organization that
+EDL	00:24:32,400	00:24:33,760	| BH2021Keynote |	would bring together
+EDL	00:24:33,760	00:24:35,600	| BH2021Keynote |	offensive cyber capabilities with
+EDL	00:24:35,600	00:24:37,200	| BH2021Keynote |	defensive ones
+EDL	00:24:37,200	00:24:39,440	| BH2021Keynote |	and because I was the army cyber
+EDL	00:24:39,440	00:24:40,960	| BH2021Keynote |	battalion commander I was asked to be
+EDL	00:24:40,960	00:24:43,200	| BH2021Keynote |	part of this very small team to help
+EDL	00:24:43,200	00:24:46,000	| BH2021Keynote |	build this new organization it was me it
+EDL	00:24:46,000	00:24:48,320	| BH2021Keynote |	was Colonel Paul Nakasoni from the army
+EDL	00:24:48,320	00:24:50,799	| BH2021Keynote |	captain tj white from the navy colonel s
+EDL	00:24:50,799	00:24:53,279	| BH2021Keynote |	l davis from the air force working for
+EDL	00:24:53,279	00:24:56,000	| BH2021Keynote |	general alexander and our then
+EDL	00:24:56,000	00:24:58,720	| BH2021Keynote |	nsa deputy director Chris Inglis
+EDL	00:24:58,720	00:25:01,279	| BH2021Keynote |	now our national cyber director
+EDL	00:25:01,279	00:25:03,440	| BH2021Keynote |	a fantastic teammate and collaborator
+EDL	00:25:03,440	00:25:06,240	| BH2021Keynote |	who is already adding value to helping
+EDL	00:25:06,240	00:25:09,760	| BH2021Keynote |	to secure our cyber ecosystem so we all
+EDL	00:25:09,760	00:25:11,120	| BH2021Keynote |	work together
+EDL	00:25:11,120	00:25:13,440	| BH2021Keynote |	to build what eventually became United
+EDL	00:25:13,440	00:25:16,159	| BH2021Keynote |	States Cyber Command and of course cyber
+EDL	00:25:16,159	00:25:18,880	| BH2021Keynote |	command and NSA under the command of now
+EDL	00:25:18,880	00:25:21,600	| BH2021Keynote |	general Paul Nakasoni and NSA's cyber
+EDL	00:25:21,600	00:25:24,000	| BH2021Keynote |	directorate under the leadership of my
+EDL	00:25:24,000	00:25:26,960	| BH2021Keynote |	good friend Rob Joyce are close partners
+EDL	00:25:26,960	00:25:28,960	| BH2021Keynote |	with CISSA
+
+** DDoS
+
+EDL	00:25:28,960	00:25:31,279	| BH2021Keynote |	Now a few years later there was another
+EDL	00:25:31,279	00:25:34,640	| BH2021Keynote |	series of major cyber attacks this time
+EDL	00:25:34,640	00:25:37,440	| BH2021Keynote |	it was a distributed distributed denial
+EDL	00:25:37,440	00:25:39,120	| BH2021Keynote |	of service attack by a group called the
+EDL	00:25:39,120	00:25:41,200	| BH2021Keynote |	Al-qasam cyber fighters.
+EDL	00:25:41,200	00:25:43,360	| BH2021Keynote |	and essentially these DDoS attacks were
+EDL	00:25:43,360	00:25:45,200	| BH2021Keynote |	launched against all of the big banks
+EDL	00:25:45,200	00:25:46,799	| BH2021Keynote |	across wall street
+EDL	00:25:46,799	00:25:48,480	| BH2021Keynote |	so that customers and clients and
+EDL	00:25:48,480	00:25:51,200	| BH2021Keynote |	employees couldn't get to those websites
+
+EDL	00:25:51,200	00:25:52,799	| BH2021Keynote |	and it really caused a panic for the
+EDL	00:25:52,799	00:25:54,720	| BH2021Keynote |	first time it illuminated the fragility
+EDL	00:25:54,720	00:25:56,240	| BH2021Keynote |	and vulnerability of our critical
+EDL	00:25:56,240	00:25:58,320	| BH2021Keynote |	financial infrastructure
+EDL	00:25:58,320	00:26:00,559	| BH2021Keynote |	and it led early on to the banks coming
+EDL	00:26:00,559	00:26:02,640	| BH2021Keynote |	together and realizing that they needed
+EDL	00:26:02,640	00:26:04,960	| BH2021Keynote |	to build those capabilities to enable
+EDL	00:26:04,960	00:26:06,559	| BH2021Keynote |	them to deal with this increasingly
+EDL	00:26:06,559	00:26:08,720	| BH2021Keynote |	complex cyber threat network
+
+** Morgan Stanley
+
+EDL	00:26:08,720	00:26:10,799	| BH2021Keynote |	and the bank that I would later join was
+EDL	00:26:10,799	00:26:12,400	| BH2021Keynote |	one of those who started building those
+EDL	00:26:12,400	00:26:15,840	| BH2021Keynote |	capabilities and so in 2017 after I left
+EDL	00:26:15,840	00:26:17,919	| BH2021Keynote |	the government I went to go join Morgan
+EDL	00:26:17,919	00:26:20,240	| BH2021Keynote |	Stanley to help build and lead our
+EDL	00:26:20,240	00:26:22,400	| BH2021Keynote |	global cybersecurity fusion center to
+EDL	00:26:22,400	00:26:25,440	| BH2021Keynote |	understand detect and respond to cyber
+EDL	00:26:25,440	00:26:27,520	| BH2021Keynote |	threats and vulnerabilities that would
+EDL	00:26:27,520	00:26:30,159	| BH2021Keynote |	impact the firm our networks our clients
+EDL	00:26:30,159	00:26:32,400	| BH2021Keynote |	our reputation and so we built that
+EDL	00:26:32,400	00:26:35,440	| BH2021Keynote |	capability out over a period of three
+EDL	00:26:35,440	00:26:39,039	| BH2021Keynote |	years and then at the end of
+EDL	00:26:39,039	00:26:42,559	| BH2021Keynote |	2019 we were actually asked to expand on
+EDL	00:26:42,559	00:26:44,880	| BH2021Keynote |	that platform to build what we called
+EDL	00:26:44,880	00:26:47,120	| BH2021Keynote |	the fusion resilience center bringing
+EDL	00:26:47,120	00:26:50,000	| BH2021Keynote |	together our cyber response capabilities
+EDL	00:26:50,000	00:26:51,600	| BH2021Keynote |	technology incident management
+EDL	00:26:51,600	00:26:54,080	| BH2021Keynote |	intelligence exercises business
+EDL	00:26:54,080	00:26:56,720	| BH2021Keynote |	continuity technology disaster recovery
+EDL	00:26:56,720	00:26:59,120	| BH2021Keynote |	to enable us to understand prepare for
+EDL	00:26:59,120	00:27:01,200	| BH2021Keynote |	respond to recover and learn from any
+EDL	00:27:01,200	00:27:03,120	| BH2021Keynote |	sort of operational incident that could
+EDL	00:27:03,120	00:27:05,520	| BH2021Keynote |	disrupt the firm from cyber attacks to
+EDL	00:27:05,520	00:27:07,919	| BH2021Keynote |	cyber-enabled fraud to technology
+EDL	00:27:07,919	00:27:09,600	| BH2021Keynote |	incidents to terrorist attacks to
+EDL	00:27:09,600	00:27:11,520	| BH2021Keynote |	geopolitical unrest
+EDL	00:27:11,520	00:27:14,720	| BH2021Keynote |	to infectious disease and pandemics
+
+EDL	00:27:14,720	00:27:16,480	| BH2021Keynote |	I think three important things to think
+EDL	00:27:16,480	00:27:18,880	| BH2021Keynote |	about this change first is the idea of
+EDL	00:27:18,880	00:27:20,640	| BH2021Keynote |	this hybrid threat landscape you can't
+EDL	00:27:20,640	00:27:22,240	| BH2021Keynote |	just talk about cyber attacks or
+EDL	00:27:22,240	00:27:25,200	| BH2021Keynote |	geopolitics or pandemics all of these
+EDL	00:27:25,200	00:27:27,200	| BH2021Keynote |	things are coming together to create
+EDL	00:27:27,200	00:27:29,039	| BH2021Keynote |	this very hybrid threat environment and
+EDL	00:27:29,039	00:27:31,679	| BH2021Keynote |	covid is a perfect example
+EDL	00:27:31,679	00:27:33,600	| BH2021Keynote |	a global health crisis that's also a
+EDL	00:27:33,600	00:27:35,520	| BH2021Keynote |	cyber pandemic because entrepreneurial
+EDL	00:27:35,520	00:27:37,919	| BH2021Keynote |	cyber threat actors took advantage of so
+EDL	00:27:37,919	00:27:40,080	| BH2021Keynote |	many people working remotely in an
+EDL	00:27:40,080	00:27:43,279	| BH2021Keynote |	explosion of fraud and theft.
+
+EDL	00:27:43,279	00:27:45,039	| BH2021Keynote |	but you think about point two right it's
+EDL	00:27:45,039	00:27:47,679	| BH2021Keynote |	this idea of the convergence of the
+EDL	00:27:47,679	00:27:49,600	| BH2021Keynote |	cyber and physical everything runs on
+EDL	00:27:49,600	00:27:51,520	| BH2021Keynote |	this technology background backbone in
+EDL	00:27:51,520	00:27:54,159	| BH2021Keynote |	this incredibly digitized world we live in
+EDL	00:27:54,159	00:27:55,840	| BH2021Keynote |	the cyber and the physical are coming
+EDL	00:27:55,840	00:27:58,159	| BH2021Keynote |	together and so we have to treat these
+EDL	00:27:58,159	00:28:00,799	| BH2021Keynote |	things as one integrated problem set and
+EDL	00:28:00,799	00:28:03,120	| BH2021Keynote |	then finally this idea of resilience all
+EDL	00:28:03,120	00:28:04,720	| BH2021Keynote |	of us want to prevent bad things from
+EDL	00:28:04,720	00:28:06,559	| BH2021Keynote |	happening happening of course we do but
+EDL	00:28:06,559	00:28:08,880	| BH2021Keynote |	in this complicated world that we live
+EDL	00:28:08,880	00:28:10,559	| BH2021Keynote |	in it's increasingly difficult to
+EDL	00:28:10,559	00:28:12,399	| BH2021Keynote |	prevent bad things from happening
+EDL	00:28:12,399	00:28:14,320	| BH2021Keynote |	particularly when you have highly
+EDL	00:28:14,320	00:28:16,480	| BH2021Keynote |	dedicated and sophisticated cyber threat
+EDL	00:28:16,480	00:28:19,360	| BH2021Keynote |	actors so the key is you have to build a
+EDL	00:28:19,360	00:28:21,200	| BH2021Keynote |	system where you can
+EDL	00:28:21,200	00:28:23,039	| BH2021Keynote |	where you can detect this activity as
+EDL	00:28:23,039	00:28:25,279	| BH2021Keynote |	rapidly as possible you can respond to
+EDL	00:28:25,279	00:28:28,000	| BH2021Keynote |	it and you can recover to mitigate risk
+EDL	00:28:28,000	00:28:30,399	| BH2021Keynote |	to your business and to the nation so
+EDL	00:28:30,399	00:28:34,720	| BH2021Keynote |	this whole idea of the importance of resilience
+
+EDL	00:28:34,720	00:28:37,360	| BH2021Keynote |	so we built out that capability
+EDL	00:28:37,360	00:28:39,200	| BH2021Keynote |	and for four and a half years I really
+EDL	00:28:39,200	00:28:42,240	| BH2021Keynote |	gained this incredible appreciation for
+EDL	00:28:42,240	00:28:45,840	| BH2021Keynote |	the importance of ensuring the security
+EDL	00:28:45,840	00:28:47,840	| BH2021Keynote |	and resilience of a piece of our
+EDL	00:28:47,840	00:28:50,000	| BH2021Keynote |	critical financial infrastructure and
+
+** Come back to government
+EDL	00:28:50,000	00:28:54,240	| BH2021Keynote |	that's really what motivates me to come back today
+EDL	00:28:54,240	00:28:56,399	| BH2021Keynote |	to government to work as the director of
+EDL	00:28:56,399	00:28:59,440	| BH2021Keynote |	CISSA so you know here we are in 2021
+EDL	00:28:59,440	00:29:01,919	| BH2021Keynote |	world is highly complex but you know I
+EDL	00:29:01,919	00:29:04,399	| BH2021Keynote |	think back about to that point in 2007
+EDL	00:29:04,399	00:29:06,640	| BH2021Keynote |	when I was in Baghdad and we thought at
+EDL	00:29:06,640	00:29:08,159	| BH2021Keynote |	that period of time we were dealing with
+EDL	00:29:08,159	00:29:10,320	| BH2021Keynote |	this massive amount of data but
+EDL	00:29:10,320	00:29:11,679	| BH2021Keynote |	it's kind of funny when I look back
+EDL	00:29:11,679	00:29:12,480	| BH2021Keynote |	because
+EDL	00:29:12,480	00:29:14,720	| BH2021Keynote |	it was really just the beginning
+
+EDL	00:29:14,720	00:29:16,039	| BH2021Keynote |	because of course
+EDL	00:29:16,039	00:29:18,559	| BH2021Keynote |	2007 was the year that Steve Jobs
+EDL	00:29:18,559	00:29:20,399	| BH2021Keynote |	introduced the world to the first iphone
+EDL	00:29:20,399	00:29:24,080	| BH2021Keynote |	sparking a revolution in communication technology
+EDL	00:29:24,080	00:29:25,600	| BH2021Keynote |	it was also the year that a small
+EDL	00:29:25,600	00:29:27,360	| BH2021Keynote |	microblogging platform called Twitter
+EDL	00:29:27,360	00:29:29,600	| BH2021Keynote |	began to spin off and scale globally
+EDL	00:29:29,600	00:29:31,360	| BH2021Keynote |	following in the footsteps of Facebook
+EDL	00:29:31,360	00:29:34,159	| BH2021Keynote |	which had just become available to
+EDL	00:29:34,159	00:29:35,919	| BH2021Keynote |	everybody over the age of 13 with a
+EDL	00:29:35,919	00:29:38,880	| BH2021Keynote |	valid email address a few months earlier
+
+EDL	00:29:38,880	00:29:42,480	| BH2021Keynote |	but 2007 was also the year that storage
+EDL	00:29:42,480	00:29:44,640	| BH2021Keynote |	capacity for computing exploded with the
+EDL	00:29:44,640	00:29:47,120	| BH2021Keynote |	emergence of Hadoop it was the year that
+EDL	00:29:47,120	00:29:49,120	| BH2021Keynote |	development began on github the year
+EDL	00:29:49,120	00:29:51,520	| BH2021Keynote |	that change.org was incorporated the
+EDL	00:29:51,520	00:29:53,520	| BH2021Keynote |	year that Amazon released Kindle and
+EDL	00:29:53,520	00:29:55,919	| BH2021Keynote |	Google released Android and IBM began
+EDL	00:29:55,919	00:29:58,159	| BH2021Keynote |	working on Watson it was also the year
+EDL	00:29:58,159	00:30:00,399	| BH2021Keynote |	that Intel first introduced non-silicon
+EDL	00:30:00,399	00:30:03,600	| BH2021Keynote |	materials into microchips enabling the
+EDL	00:30:03,600	00:30:08,240	| BH2021Keynote |	continued growth and exponential computing power
+
+** 2021
+EDL	00:30:08,240	00:30:11,279	| BH2021Keynote |	Now here we are in 2021.
+EDL	00:30:11,279	00:30:13,760	| BH2021Keynote |	there are 7.8 billion people on the
+EDL	00:30:13,760	00:30:16,960	| BH2021Keynote |	planet 5.2 billion on mobile phones 4.7
+EDL	00:30:16,960	00:30:19,440	| BH2021Keynote |	billion on the internet 4.3 billion on
+EDL	00:30:19,440	00:30:21,360	| BH2021Keynote |	social media
+EDL	00:30:21,360	00:30:23,520	| BH2021Keynote |	there are now over 21 billion devices
+EDL	00:30:23,520	00:30:25,200	| BH2021Keynote |	connected to the internet a number
+EDL	00:30:25,200	00:30:27,279	| BH2021Keynote |	expected to grow considerably in the
+EDL	00:30:27,279	00:30:29,360	| BH2021Keynote |	coming few years and from the first
+EDL	00:30:29,360	00:30:31,760	| BH2021Keynote |	website in 1991
+EDL	00:30:31,760	00:30:36,320	| BH2021Keynote |	there are now over 1.8 billion websites
+EDL	00:30:36,320	00:30:38,880	| BH2021Keynote |	in just one internet minute there are
+EDL	00:30:38,880	00:30:43,120	| BH2021Keynote |	now more than 572 000 tweets 1.3 million
+EDL	00:30:43,120	00:30:46,240	| BH2021Keynote |	facebook logins 3.4 million snaps sent
+EDL	00:30:46,240	00:30:49,120	| BH2021Keynote |	4.7 million youtube videos watched 5.5
+EDL	00:30:49,120	00:30:51,240	| BH2021Keynote |	million google searches and over
+EDL	00:30:51,240	00:30:54,720	| BH2021Keynote |	261 million emails sent and delivered in
+EDL	00:30:54,720	00:30:58,720	| BH2021Keynote |	just one internet minute
+EDL	00:30:58,720	00:30:59,679	| BH2021Keynote |	[ SPACE 1.0 secs ]
+EDL	00:30:59,679	00:31:02,880	| BH2021Keynote |	the world is incredibly digitized in the
+EDL	00:31:02,880	00:31:06,640	| BH2021Keynote |	volume variety and velocity of data is ever expanding
+EDL	00:31:06,640	00:31:09,039	| BH2021Keynote |	and we know that's a good thing
+EDL	00:31:09,039	00:31:11,039	| BH2021Keynote |	it's brought us together as humans it's
+EDL	00:31:11,039	00:31:13,039	| BH2021Keynote |	helped us solve problems we've improved
+EDL	00:31:13,039	00:31:15,279	| BH2021Keynote |	our quality of life but as we've
+EDL	00:31:15,279	00:31:18,399	| BH2021Keynote |	attached more platforms and devices on the internet
+EDL	00:31:18,399	00:31:20,880	| BH2021Keynote |	we have increased the attack surface as
+EDL	00:31:20,880	00:31:24,159	| BH2021Keynote |	we all know and we've increased the vulnerabilities
+
+EDL	00:31:24,159	00:31:24,880	| BH2021Keynote |	so
+EDL	00:31:24,880	00:31:26,559	| BH2021Keynote |	now there's a cyber attack roughly every
+EDL	00:31:26,559	00:31:28,559	| BH2021Keynote |	40 seconds one in 10 of those 1.8
+EDL	00:31:28,559	00:31:31,360	| BH2021Keynote |	billion websites leads you to malware
+EDL	00:31:31,360	00:31:33,840	| BH2021Keynote |	cyber crime damages are in the trillions
+EDL	00:31:33,840	00:31:36,080	| BH2021Keynote |	of dollars and as we all know ransomware
+EDL	00:31:36,080	00:31:38,480	| BH2021Keynote |	has become a scourge affecting
+EDL	00:31:38,480	00:31:40,480	| BH2021Keynote |	all Americans across society with
+EDL	00:31:40,480	00:31:43,039	| BH2021Keynote |	attacks against schools and hospitals
+EDL	00:31:43,039	00:31:45,519	| BH2021Keynote |	and municipalities and pipelines and
+EDL	00:31:45,519	00:31:48,320	| BH2021Keynote |	meat packing in all manner of software
+EDL	00:31:48,320	00:31:50,159	| BH2021Keynote |	one particularly pernicious vector are
+EDL	00:31:50,159	00:31:52,080	| BH2021Keynote |	these ransomware attacks against the
+EDL	00:31:52,080	00:31:54,240	| BH2021Keynote |	healthcare sector already highly
+EDL	00:31:54,240	00:31:56,880	| BH2021Keynote |	stressed because of Covid
+EDL	00:31:56,880	00:31:59,360	| BH2021Keynote |	one healthcare services suffered a
+EDL	00:31:59,360	00:32:01,679	| BH2021Keynote |	ransomware attack that cost them about
+EDL	00:32:01,679	00:32:03,760	| BH2021Keynote |	70 million dollars
+
+EDL	00:32:03,760	00:32:06,159	| BH2021Keynote |	but that monetary cost really pales in
+EDL	00:32:06,159	00:32:08,799	| BH2021Keynote |	comparison to the potential human cost
+EDL	00:32:08,799	00:32:10,799	| BH2021Keynote |	because these delays
+EDL	00:32:10,799	00:32:13,120	| BH2021Keynote |	in services and in surgeries and in
+EDL	00:32:13,120	00:32:15,760	| BH2021Keynote |	health care can lead
+EDL	00:32:15,760	00:32:18,000	| BH2021Keynote |	to an increase in the
+EDL	00:32:18,000	00:32:20,559	| BH2021Keynote |	number of of average deaths that happen
+EDL	00:32:20,559	00:32:23,200	| BH2021Keynote |	in a period of time
+
+EDL	00:32:23,200	00:32:25,840	| BH2021Keynote |	we cannot allow avoidable cyber
+EDL	00:32:25,840	00:32:30,559	| BH2021Keynote |	disruptions to cost human lives
+
+EDL	00:32:30,559	00:32:32,799	| BH2021Keynote |	and yet every day malicious cyber actors
+EDL	00:32:32,799	00:32:35,600	| BH2021Keynote |	from Nation States to cyber criminals
+EDL	00:32:35,600	00:32:37,840	| BH2021Keynote |	weaponize all of that data and the
+EDL	00:32:37,840	00:32:39,760	| BH2021Keynote |	vulnerabilities in our networks to
+EDL	00:32:39,760	00:32:41,200	| BH2021Keynote |	threaten the confidentiality the
+EDL	00:32:41,200	00:32:42,799	| BH2021Keynote |	integrity the availability of our
+EDL	00:32:42,799	00:32:44,880	| BH2021Keynote |	information our privacy our identity our
+EDL	00:32:44,880	00:32:47,120	| BH2021Keynote |	security our critical infrastructure and
+EDL	00:32:47,120	00:32:49,279	| BH2021Keynote |	frankly our way of life
+
+EDL	00:32:49,279	00:32:51,360	| BH2021Keynote |	and that's what brings me back after
+EDL	00:32:51,360	00:32:54,000	| BH2021Keynote |	four and a half years in the private sector
+EDL	00:32:54,000	00:32:59,039	| BH2021Keynote |	to the u.s government to lead CISSA.
+
+EDL	00:32:59,039	00:33:00,880	| BH2021Keynote |	we're at an incredible moment of time
+EDL	00:33:00,880	00:33:02,480	| BH2021Keynote |	when we have an administration that has
+EDL	00:33:02,480	00:33:07,600	| BH2021Keynote |	made cybersecurity a national security imperative
+
+EDL	00:33:07,600	00:33:11,120	| BH2021Keynote |	the CISSA is the product of imagination
+EDL	00:33:11,120	00:33:13,840	| BH2021Keynote |	of many of my predecessors as well as
+EDL	00:33:13,840	00:33:16,480	| BH2021Keynote |	the us congress that created it at the
+EDL	00:33:16,480	00:33:19,200	| BH2021Keynote |	end of 2018 where it was founded by my
+EDL	00:33:19,200	00:33:21,120	| BH2021Keynote |	good friend and predecessor Chris Krebs
+EDL	00:33:21,120	00:33:23,840	| BH2021Keynote |	now CISSA was created to be something
+EDL	00:33:23,840	00:33:25,679	| BH2021Keynote |	very different not just another
+EDL	00:33:25,679	00:33:28,240	| BH2021Keynote |	lumbering government bureaucracy but
+EDL	00:33:28,240	00:33:30,559	| BH2021Keynote |	really something much more akin to a
+EDL	00:33:30,559	00:33:32,559	| BH2021Keynote |	hybrid public-private collaborative
+EDL	00:33:32,559	00:33:36,960	| BH2021Keynote |	where collaboration is baked into our DNA
+EDL	00:33:36,960	00:33:40,159	| BH2021Keynote |	now our mission statement is pretty simple
+
+MISSION:
+EDL	00:33:40,159	00:33:42,080	| BH2021Keynote |	we lead the national effort to
+EDL	00:33:42,080	00:33:44,480	| BH2021Keynote |	understand manage and mitigate risk to
+EDL	00:33:44,480	00:33:47,360	| BH2021Keynote |	our cyber and physical infrastructure
+EDL	00:33:47,360	00:33:49,679	| BH2021Keynote |	it's easy to say but very hard to
+EDL	00:33:49,679	00:33:51,519	| BH2021Keynote |	operationalize with significant
+EDL	00:33:51,519	00:33:54,480	| BH2021Keynote |	consequences for failure
+
+EDL	00:33:54,480	00:33:56,399	| BH2021Keynote |	so as the national coordinator for
+EDL	00:33:56,399	00:33:58,080	| BH2021Keynote |	critical infrastructure security and
+EDL	00:33:58,080	00:34:00,240	| BH2021Keynote |	resilience to realize
+EDL	00:34:00,240	00:34:02,159	| BH2021Keynote |	our vision of secure and resilient
+EDL	00:34:02,159	00:34:05,120	| BH2021Keynote |	infrastructure for the american people
+
+EDL	00:34:05,120	00:34:07,360	| BH2021Keynote |	we have to do it as a team
+EDL	00:34:07,360	00:34:09,440	| BH2021Keynote |	we can't do this alone because
+EDL	00:34:09,440	00:34:10,800	| BH2021Keynote |	over 80 percent of critical
+EDL	00:34:10,800	00:34:13,040	| BH2021Keynote |	infrastructure is in private hands so it
+EDL	00:34:13,040	00:34:14,879	| BH2021Keynote |	has to be an effort where we come
+EDL	00:34:14,879	00:34:17,199	| BH2021Keynote |	together and collectively leverage our
+EDL	00:34:17,199	00:34:19,520	| BH2021Keynote |	imagination and our collaboration
+EDL	00:34:19,520	00:34:22,800	| BH2021Keynote |	to help secure our cyber ecosystem
+EDL	00:34:22,800	00:34:26,480	| BH2021Keynote |	so here's where I ask for your help
+
+EDL	00:34:26,480	00:34:28,000	| BH2021Keynote |	first thing
+EDL	00:34:28,000	00:34:29,440	| BH2021Keynote |	partner with us
+EDL	00:34:29,440	00:34:32,159	| BH2021Keynote |	to raise the cyber security baseline of
+EDL	00:34:32,159	00:34:34,320	| BH2021Keynote |	our data of our networks of our services
+EDL	00:34:34,320	00:34:36,399	| BH2021Keynote |	of our products and to help make the
+EDL	00:34:36,399	00:34:38,879	| BH2021Keynote |	internet a safer place
+EDL	00:34:38,879	00:34:41,119	| BH2021Keynote |	you look back on the year so far and
+EDL	00:34:41,119	00:34:42,960	| BH2021Keynote |	it's pretty incredible
+EDL	00:34:42,960	00:34:46,000	| BH2021Keynote |	from the solar wind supply chain hack to
+EDL	00:34:46,000	00:34:47,280	| BH2021Keynote |	the
+EDL	00:34:47,280	00:34:49,599	| BH2021Keynote |	vulnerabilities exploited in
+EDL	00:34:49,599	00:34:51,359	| BH2021Keynote |	Microsoft Exchange Server to
+EDL	00:34:51,359	00:34:55,199	| BH2021Keynote |	vulnerabilities and print windows print spooler to
+EDL	00:34:55,199	00:34:57,520	| BH2021Keynote |	pulse secure connect to attacks against
+EDL	00:34:57,520	00:35:00,079	| BH2021Keynote |	pipelines and meat packing and
+EDL	00:35:00,079	00:35:02,720	| BH2021Keynote |	cassaya software it's been a pretty
+EDL	00:35:02,720	00:35:05,280	| BH2021Keynote |	incredible year so far and we're only at
+EDL	00:35:05,280	00:35:07,040	| BH2021Keynote |	the beginning of August and here's where
+EDL	00:35:07,040	00:35:10,640	| BH2021Keynote |	I need to give my sincere thanks to
+EDL	00:35:10,640	00:35:12,800	| BH2021Keynote |	Brandon Wales our executive director who
+EDL	00:35:12,800	00:35:15,200	| BH2021Keynote |	is the acting director of CISSA and our
+EDL	00:35:15,200	00:35:17,200	| BH2021Keynote |	executive assistant director Eric
+EDL	00:35:17,200	00:35:19,760	| BH2021Keynote |	Goldstein who really shepherd us through
+EDL	00:35:19,760	00:35:22,400	| BH2021Keynote |	this very turbulent and complex period
+EDL	00:35:22,400	00:35:24,320	| BH2021Keynote |	of time they and their teams did a
+EDL	00:35:24,320	00:35:28,000	| BH2021Keynote |	fantastic job. now CISSA was able to
+EDL	00:35:28,000	00:35:29,839	| BH2021Keynote |	issue emergency directives to our
+EDL	00:35:29,839	00:35:32,480	| BH2021Keynote |	federal partners was able to get out
+EDL	00:35:32,480	00:35:34,960	| BH2021Keynote |	alerts to our network defenders in the
+EDL	00:35:34,960	00:35:37,440	| BH2021Keynote |	larger community to help them
+EDL	00:35:37,440	00:35:40,800	| BH2021Keynote |	mitigate the risks from these vulnerabilities
+
+EDL	00:35:40,800	00:35:42,880	| BH2021Keynote |	but CISSA was only able to do this
+EDL	00:35:42,880	00:35:44,800	| BH2021Keynote |	because of the incredible partners that
+EDL	00:35:44,800	00:35:47,440	| BH2021Keynote |	we have in particular the partnership
+EDL	00:35:47,440	00:35:50,000	| BH2021Keynote |	with the research community that does
+EDL	00:35:50,000	00:35:52,320	| BH2021Keynote |	such great work to help us identify
+EDL	00:35:52,320	00:35:55,440	| BH2021Keynote |	vulnerabilities and I want to give you a couple examples
+
+EDL	00:35:55,440	00:35:57,680	| BH2021Keynote |	so Victor Gavers of the Dutch institute
+EDL	00:35:57,680	00:35:59,599	| BH2021Keynote |	for vulnerability disclosure helped us
+EDL	00:35:59,599	00:36:01,839	| BH2021Keynote |	understand the chain of vulnerabilities
+EDL	00:36:01,839	00:36:03,839	| BH2021Keynote |	that led to the exploitation of cassaya
+EDL	00:36:03,839	00:36:06,000	| BH2021Keynote |	software and helped us manage
+EDL	00:36:06,000	00:36:07,839	| BH2021Keynote |	a national response
+
+EDL	00:36:07,839	00:36:09,839	| BH2021Keynote |	during solarwinds Sean Metcalf of
+EDL	00:36:09,839	00:36:12,240	| BH2021Keynote |	Trimark helped us understand the
+EDL	00:36:12,240	00:36:14,560	| BH2021Keynote |	complications around identity management
+EDL	00:36:14,560	00:36:15,920	| BH2021Keynote |	and his work has really been
+EDL	00:36:15,920	00:36:18,400	| BH2021Keynote |	foundational to helping to effectively
+EDL	00:36:18,400	00:36:20,800	| BH2021Keynote |	pentest infrastructure and then Will
+EDL	00:36:20,800	00:36:22,320	| BH2021Keynote |	Dorman of the software engineering
+EDL	00:36:22,320	00:36:23,920	| BH2021Keynote |	institute of Carnegie Mellon helped
+EDL	00:36:23,920	00:36:26,079	| BH2021Keynote |	Microsoft and CISSA and our partners
+EDL	00:36:26,079	00:36:27,119	| BH2021Keynote |	understand the past and
+EDL	00:36:27,119	00:36:29,040	| BH2021Keynote |	interconnectedness of the print
+EDL	00:36:29,040	00:36:30,480	| BH2021Keynote |	nightmare vulnerabilities so that we
+EDL	00:36:30,480	00:36:32,880	| BH2021Keynote |	could get guidance out to enable network
+EDL	00:36:32,880	00:36:34,640	| BH2021Keynote |	defenders to be able to strengthen the
+EDL	00:36:34,640	00:36:37,520	| BH2021Keynote |	security of their networks from that vulnerability
+
+EDL	00:36:37,520	00:36:38,960	| BH2021Keynote |	now these are just
+EDL	00:36:38,960	00:36:41,760	| BH2021Keynote |	three examples three recent examples
+EDL	00:36:41,760	00:36:43,520	| BH2021Keynote |	but there are many many more so my
+EDL	00:36:43,520	00:36:46,400	| BH2021Keynote |	thanks to Victor and Sean and to Will
+EDL	00:36:46,400	00:36:48,720	| BH2021Keynote |	and to all of you who have participated
+EDL	00:36:48,720	00:36:50,320	| BH2021Keynote |	in our coordinated vulnerability
+EDL	00:36:50,320	00:36:52,960	| BH2021Keynote |	disclosure platform you have helped us
+EDL	00:36:52,960	00:36:54,960	| BH2021Keynote |	make the internet and our ecosystem
+EDL	00:36:54,960	00:36:57,200	| BH2021Keynote |	safer and for those of you who haven't I
+EDL	00:36:57,200	00:37:00,079	| BH2021Keynote |	invite you to please participate we are
+EDL	00:37:00,079	00:37:01,839	| BH2021Keynote |	a huge supporter of the research
+EDL	00:37:01,839	00:37:04,000	| BH2021Keynote |	community the work that you do to help
+EDL	00:37:04,000	00:37:06,560	| BH2021Keynote |	identify vulnerabilities so they can be
+EDL	00:37:06,560	00:37:09,680	| BH2021Keynote |	rapidly mitigated is so foundational to
+EDL	00:37:09,680	00:37:13,359	| BH2021Keynote |	a safe and secure cyber ecosystem
+EDL	00:37:13,359	00:37:15,200	| BH2021Keynote |	everyone knows that we are stronger
+EDL	00:37:15,200	00:37:17,839	| BH2021Keynote |	together our strength really comes from
+EDL	00:37:17,839	00:37:20,960	| BH2021Keynote |	this incredible power of collaboration
+
+EDL	00:37:20,960	00:37:23,520	| BH2021Keynote |	but we know that with great power
+EDL	00:37:23,520	00:37:26,480	| BH2021Keynote |	comes great responsibility
+EDL	00:37:26,480	00:37:27,520	| BH2021Keynote |	so
+EDL	00:37:27,520	00:37:28,400	| BH2021Keynote |	my
+EDL	00:37:28,400	00:37:30,720	| BH2021Keynote |	priority one of my big priorities as the
+EDL	00:37:30,720	00:37:33,200	| BH2021Keynote |	director is to ensure that we are
+EDL	00:37:33,200	00:37:35,520	| BH2021Keynote |	maximizing this power is to cultivate
+EDL	00:37:35,520	00:37:36,800	| BH2021Keynote |	and strengthen the incredible
+EDL	00:37:36,800	00:37:39,040	| BH2021Keynote |	partnerships that we have in particular
+EDL	00:37:39,040	00:37:41,599	| BH2021Keynote |	with industry with the academia with
+EDL	00:37:41,599	00:37:44,160	| BH2021Keynote |	researchers with the hacker community to
+EDL	00:37:44,160	00:37:46,800	| BH2021Keynote |	ensure that we are leveraging the best
+EDL	00:37:46,800	00:37:48,640	| BH2021Keynote |	and brightest of this community for the
+EDL	00:37:48,640	00:37:50,640	| BH2021Keynote |	collective defense of the nation as I
+
+EDL	00:37:50,640	00:37:54,480	| BH2021Keynote |	said collaboration is in CISSA's DNA and
+EDL	00:37:54,480	00:37:56,160	| BH2021Keynote |	I fundamentally believe that this
+EDL	00:37:56,160	00:37:58,240	| BH2021Keynote |	approach will make us stronger it will
+EDL	00:37:58,240	00:37:59,920	| BH2021Keynote |	also help us
+EDL	00:37:59,920	00:38:02,640	| BH2021Keynote |	to secure the very complicated supply
+EDL	00:38:02,640	00:38:04,320	| BH2021Keynote |	chain that underpins practically
+EDL	00:38:04,320	00:38:05,760	| BH2021Keynote |	everything we do
+EDL	00:38:05,760	00:38:08,800	| BH2021Keynote |	and that enables our businesses large and small
+EDL	00:38:08,800	00:38:11,599	| BH2021Keynote |	to help support our economy
+EDL	00:38:11,599	00:38:13,839	| BH2021Keynote |	so incredibly important mission you know
+EDL	00:38:13,839	00:38:16,640	| BH2021Keynote |	relatedly another opportunity last week
+EDL	00:38:16,640	00:38:19,040	| BH2021Keynote |	we issued the vulnerability disclosure
+EDL	00:38:19,040	00:38:20,960	| BH2021Keynote |	platform so what this is is a shared
+EDL	00:38:20,960	00:38:23,280	| BH2021Keynote |	services service between CISSA and our
+EDL	00:38:23,280	00:38:25,599	| BH2021Keynote |	federal government partners to enable
+EDL	00:38:25,599	00:38:28,160	| BH2021Keynote |	the public like you to identify
+EDL	00:38:28,160	00:38:29,680	| BH2021Keynote |	vulnerabilities on our government
+EDL	00:38:29,680	00:38:32,079	| BH2021Keynote |	websites and mobile applications and to
+EDL	00:38:32,079	00:38:33,760	| BH2021Keynote |	enable a place where they can be taken
+EDL	00:38:33,760	00:38:36,880	| BH2021Keynote |	in and triaged and routed to ensure
+EDL	00:38:36,880	00:38:38,720	| BH2021Keynote |	that we can rapidly
+EDL	00:38:38,720	00:38:40,320	| BH2021Keynote |	leverage those vulnerabilities that you
+EDL	00:38:40,320	00:38:41,839	| BH2021Keynote |	have given us to mitigate those
+EDL	00:38:41,839	00:38:44,000	| BH2021Keynote |	vulnerabilities on networks to ensure
+EDL	00:38:44,000	00:38:45,760	| BH2021Keynote |	the security of internet accessible
+EDL	00:38:45,760	00:38:47,040	| BH2021Keynote |	systems so
+
+EDL	00:38:47,040	00:38:49,920	| BH2021Keynote |	hugely important capabilities so
+
+** Value? Partnering with CISSA
+
+EDL	00:38:49,920	00:38:51,680	| BH2021Keynote |	I know what you're thinking right
+EDL	00:38:51,680	00:38:53,440	| BH2021Keynote |	in addition to helping defend your
+EDL	00:38:53,440	00:38:55,760	| BH2021Keynote |	nation and secure the cyber security
+EDL	00:38:55,760	00:38:58,320	| BH2021Keynote |	ecosystem what's the value in partnering
+EDL	00:38:58,320	00:39:00,720	| BH2021Keynote |	with these CISSA people so
+
+EDL	00:39:00,720	00:39:02,160	| BH2021Keynote |	let me help you with that now I've only
+EDL	00:39:02,160	00:39:04,560	| BH2021Keynote |	been here for three and a half weeks but
+EDL	00:39:04,560	00:39:06,960	| BH2021Keynote |	I have seen CISSA grow and transform over
+EDL	00:39:06,960	00:39:08,800	| BH2021Keynote |	the last four and a half years as a
+EDL	00:39:08,800	00:39:10,640	| BH2021Keynote |	senior technology and cyber security
+EDL	00:39:10,640	00:39:12,480	| BH2021Keynote |	leader in the private sector and I want
+EDL	00:39:12,480	00:39:14,079	| BH2021Keynote |	to give you three reasons and if I come
+EDL	00:39:14,079	00:39:16,079	| BH2021Keynote |	back next year I can probably give you
+EDL	00:39:16,079	00:39:19,599	| BH2021Keynote |	many more but the first one is context
+
+CONTEXT:
+
+EDL	00:39:19,599	00:39:21,920	| BH2021Keynote |	we can provide context to what you are
+EDL	00:39:21,920	00:39:24,560	| BH2021Keynote |	seeing on your network and as we know
+
+EDL	00:39:24,560	00:39:27,359	| BH2021Keynote |	context is for kings
+EDL	00:39:27,359	00:39:29,359	| BH2021Keynote |	given where we are placed and our
+EDL	00:39:29,359	00:39:31,280	| BH2021Keynote |	relationships with the intel community
+EDL	00:39:31,280	00:39:32,720	| BH2021Keynote |	of the law enforcement community
+EDL	00:39:32,720	00:39:34,880	| BH2021Keynote |	industry the federal government we
+EDL	00:39:34,880	00:39:36,960	| BH2021Keynote |	capture a holistic view of the threat
+EDL	00:39:36,960	00:39:39,040	| BH2021Keynote |	landscape that we can provide to you to
+EDL	00:39:39,040	00:39:40,640	| BH2021Keynote |	enable your understanding and what's
+EDL	00:39:40,640	00:39:42,880	| BH2021Keynote |	more given our role in helping to
+EDL	00:39:42,880	00:39:44,640	| BH2021Keynote |	protect and defend federal civilian
+EDL	00:39:44,640	00:39:47,680	| BH2021Keynote |	executive branch networks we have a very
+EDL	00:39:47,680	00:39:50,400	| BH2021Keynote |	large and unique cache of data
+
+EDL	00:39:50,400	00:39:52,640	| BH2021Keynote |	that we synthesize and analyze to help
+EDL	00:39:52,640	00:39:55,520	| BH2021Keynote |	put out actionable products and guidance
+
+EDL	00:39:55,520	00:39:57,440	| BH2021Keynote |	so this picture that we're able to bring
+EDL	00:39:57,440	00:40:00,000	| BH2021Keynote |	together helps us enable you to
+EDL	00:40:00,000	00:40:02,000	| BH2021Keynote |	understand suspicious activity on your
+EDL	00:40:02,000	00:40:04,000	| BH2021Keynote |	network so that you can rapidly respond
+EDL	00:40:04,000	00:40:07,839	| BH2021Keynote |	to it and mitigate it so thing number one context
+
+EDL	00:40:07,839	00:40:09,839	| BH2021Keynote |	thing two I mentioned the work that we
+EDL	00:40:09,839	00:40:12,000	| BH2021Keynote |	did over the past eight months and
+EDL	00:40:12,000	00:40:14,880	| BH2021Keynote |	for years before that to send out
+EDL	00:40:14,880	00:40:17,119	| BH2021Keynote |	expert cyber incident response teams to
+EDL	00:40:17,119	00:40:19,839	| BH2021Keynote |	help victims recover from cyber attacks
+EDL	00:40:19,839	00:40:21,440	| BH2021Keynote |	and we stand by
+EDL	00:40:21,440	00:40:23,760	| BH2021Keynote |	to help you if you need it now much of
+EDL	00:40:23,760	00:40:26,240	| BH2021Keynote |	the data that we get from responding to
+EDL	00:40:26,240	00:40:28,560	| BH2021Keynote |	these incidents is anonymized and we can
+EDL	00:40:28,560	00:40:29,680	| BH2021Keynote |	use that
+EDL	00:40:29,680	00:40:32,000	| BH2021Keynote |	very importantly to help warn other
+EDL	00:40:32,000	00:40:35,200	| BH2021Keynote |	potential victims so that they don't get attacked
+
+EDL	00:40:35,200	00:40:37,920	| BH2021Keynote |	this ability to share information as
+EDL	00:40:37,920	00:40:40,720	| BH2021Keynote |	early warning is incredibly important to
+EDL	00:40:40,720	00:40:42,800	| BH2021Keynote |	helping us all defend the cyber
+EDL	00:40:42,800	00:40:44,319	| BH2021Keynote |	ecosystem and here's why I want to get
+EDL	00:40:44,319	00:40:47,040	| BH2021Keynote |	on a little bit of my cyber soap box and
+EDL	00:40:47,040	00:40:49,119	| BH2021Keynote |	talk about these hackney terms right we
+EDL	00:40:49,119	00:40:51,200	| BH2021Keynote |	all know them the bumper stickers in
+EDL	00:40:51,200	00:40:54,000	| BH2021Keynote |	cyber public private partnerships
+EDL	00:40:54,000	00:40:56,960	| BH2021Keynote |	information sharing will look my goal is
+EDL	00:40:56,960	00:40:59,839	| BH2021Keynote |	to really help breathe new life into
+EDL	00:40:59,839	00:41:02,720	| BH2021Keynote |	these arguably hackneyed terms
+EDL	00:41:02,720	00:41:04,960	| BH2021Keynote |	turning public-private partnership into
+EDL	00:41:04,960	00:41:08,560	| BH2021Keynote |	public private operational collaboration
+EDL	00:41:08,560	00:41:12,319	| BH2021Keynote |	and information sharing into something that is timely
+EDL	00:41:12,319	00:41:14,720	| BH2021Keynote |	and relevant and most importantly
+EDL	00:41:14,720	00:41:17,200	| BH2021Keynote |	actionable the information we put out
+EDL	00:41:17,200	00:41:19,440	| BH2021Keynote |	must be able to be used to help network
+EDL	00:41:19,440	00:41:21,520	| BH2021Keynote |	defenders make a decision to strengthen
+EDL	00:41:21,520	00:41:24,480	| BH2021Keynote |	your network so I ask for your feedback
+
+EDL	00:41:24,480	00:41:27,440	| BH2021Keynote |	we and our partners work hard to try and
+EDL	00:41:27,440	00:41:30,000	| BH2021Keynote |	get out products that can be used by you
+EDL	00:41:30,000	00:41:32,160	| BH2021Keynote |	so please help us refine those products
+EDL	00:41:32,160	00:41:33,520	| BH2021Keynote |	so that they are
+EDL	00:41:33,520	00:41:38,240	| BH2021Keynote |	valuable and indeed are actionable
+EDL	00:41:38,240	00:41:38,960	| BH2021Keynote |	[ SPACE 0.7 secs ]
+
+
+EDL	00:41:38,960	00:41:41,359	| BH2021Keynote |	so third thing
+EDL	00:41:41,359	00:41:43,839	| BH2021Keynote |	we given our mission as the
+EDL	00:41:43,839	00:41:46,319	| BH2021Keynote |	civilian cyber defense agency and all of
+EDL	00:41:46,319	00:41:48,800	| BH2021Keynote |	our important partnerships we have this
+EDL	00:41:48,800	00:41:50,880	| BH2021Keynote |	incredible platform the federal
+EDL	00:41:50,880	00:41:53,200	| BH2021Keynote |	government our close partners at the
+EDL	00:41:53,200	00:41:56,240	| BH2021Keynote |	state local tribal territorial level our
+EDL	00:41:56,240	00:41:57,920	| BH2021Keynote |	partners with critical infrastructure
+EDL	00:41:57,920	00:42:00,960	| BH2021Keynote |	owners and operators all across industry
+EDL	00:42:00,960	00:42:03,280	| BH2021Keynote |	gives this this fantastic platform where
+EDL	00:42:03,280	00:42:05,280	| BH2021Keynote |	we can come together and share
+EDL	00:42:05,280	00:42:08,000	| BH2021Keynote |	cyber best practices and we can plan and
+EDL	00:42:08,000	00:42:09,920	| BH2021Keynote |	we can exercise
+EDL	00:42:09,920	00:42:12,640	| BH2021Keynote |	against the most significant cyber threats
+EDL	00:42:12,640	00:42:14,720	| BH2021Keynote |	to the nation
+
+** JC/DC
+EDL	00:42:14,720	00:42:16,720	| BH2021Keynote |	and on that note
+EDL	00:42:16,720	00:42:18,960	| BH2021Keynote |	I am super excited today
+EDL	00:42:18,960	00:42:21,839	| BH2021Keynote |	to announce that CISSA is launching the
+EDL	00:42:21,839	00:42:25,410	| BH2021Keynote |	joint cyber defense collaborative
+
+EDL	00:42:25,410	00:42:38,720	| BH2021Keynote |	[Music]
+EDL	00:42:38,720	00:42:40,920	| BH2021Keynote |	[Applause]
+EDL	00:42:40,920	00:42:42,800	| BH2021Keynote |	[Music]
+EDL	00:42:42,800	00:42:45,359	| BH2021Keynote |	okay for those of you Seinfeld fans that
+EDL	00:42:45,359	00:42:47,440	| BH2021Keynote |	was the Elaine Dance so
+EDL	00:42:47,440	00:42:49,280	| BH2021Keynote |	look I wanted to call this thing the
+EDL	00:42:49,280	00:42:52,400	| BH2021Keynote |	advanced cyber defense collaborative but
+EDL	00:42:52,400	00:42:54,640	| BH2021Keynote |	the lawyers wouldn't let me but the JC/DC
+EDL	00:42:54,640	00:42:56,640	| BH2021Keynote |	I'm really excited to talk about it so
+EDL	00:42:56,640	00:42:58,720	| BH2021Keynote |	the JC/DC was also the product of
+EDL	00:42:58,720	00:43:01,599	| BH2021Keynote |	imagination of the fantastic cyberspace
+EDL	00:43:01,599	00:43:04,240	| BH2021Keynote |	solarium commission that was led by
+EDL	00:43:04,240	00:43:07,200	| BH2021Keynote |	senator angus king and representative
+EDL	00:43:07,200	00:43:08,560	| BH2021Keynote |	Mike Gallagher
+EDL	00:43:08,560	00:43:10,400	| BH2021Keynote |	Chris English our national cyber
+EDL	00:43:10,400	00:43:12,480	| BH2021Keynote |	director was also a commissioner there
+
+EDL	00:43:12,480	00:43:14,000	| BH2021Keynote |	they have made a significant
+EDL	00:43:14,000	00:43:16,720	| BH2021Keynote |	contribution to the security of the
+EDL	00:43:16,720	00:43:19,040	| BH2021Keynote |	cyber of the cyber ecosystem into our
+EDL	00:43:19,040	00:43:21,040	| BH2021Keynote |	national cyber strategy
+EDL	00:43:21,040	00:43:22,720	| BH2021Keynote |	they came up with this idea of a
+EDL	00:43:22,720	00:43:24,400	| BH2021Keynote |	planning office and then
+EDL	00:43:24,400	00:43:26,400	| BH2021Keynote |	the congress in particular the senate
+EDL	00:43:26,400	00:43:28,079	| BH2021Keynote |	and the house homeland security
+EDL	00:43:28,079	00:43:30,319	| BH2021Keynote |	committees their incredible leadership
+EDL	00:43:30,319	00:43:32,880	| BH2021Keynote |	as well as the leadership of congressman
+EDL	00:43:32,880	00:43:35,920	| BH2021Keynote |	Jim Langevin came up with this idea of
+EDL	00:43:35,920	00:43:37,680	| BH2021Keynote |	bringing together the public sector and
+EDL	00:43:37,680	00:43:40,240	| BH2021Keynote |	the private sector in a joint planning
+EDL	00:43:40,240	00:43:43,599	| BH2021Keynote |	capability to help us build plans
+EDL	00:43:43,599	00:43:45,680	| BH2021Keynote |	against the most significant cyber
+EDL	00:43:45,680	00:43:48,319	| BH2021Keynote |	threats to our nation now I'm a retired
+EDL	00:43:48,319	00:43:52,160	| BH2021Keynote |	military officer so I like to quote dead generals
+
+EDL	00:43:52,160	00:43:53,599	| BH2021Keynote |	and one of my favorite is general
+EDL	00:43:53,599	00:43:56,560	| BH2021Keynote |	Eisenhower who said plans are nothing
+EDL	00:43:56,560	00:43:58,720	| BH2021Keynote |	planning is everything and I really
+EDL	00:43:58,720	00:44:00,400	| BH2021Keynote |	believe that you have to come together
+EDL	00:44:00,400	00:44:02,240	| BH2021Keynote |	and develop these plans
+EDL	00:44:02,240	00:44:04,480	| BH2021Keynote |	with your stakeholders and partners you
+EDL	00:44:04,480	00:44:06,319	| BH2021Keynote |	got to plan in peace time so you're
+EDL	00:44:06,319	00:44:08,800	| BH2021Keynote |	ready in wartime
+
+EDL	00:44:08,800	00:44:11,520	| BH2021Keynote |	so the whole idea of this JC/DC is to
+EDL	00:44:11,520	00:44:13,839	| BH2021Keynote |	bring together our partners to do four
+EDL	00:44:13,839	00:44:16,400	| BH2021Keynote |	key things first
+
+EDL	00:44:16,400	00:44:18,560	| BH2021Keynote |	to share insight so that we create a
+EDL	00:44:18,560	00:44:20,480	| BH2021Keynote |	common operating picture a shared
+EDL	00:44:20,480	00:44:23,680	| BH2021Keynote |	situational awareness of the threat environment
+
+EDL	00:44:23,680	00:44:26,480	| BH2021Keynote |	so that we understand it better 2.
+EDL	00:44:26,480	00:44:27,839	| BH2021Keynote |	to develop
+EDL	00:44:27,839	00:44:30,079	| BH2021Keynote |	whole of nation comprehensive cyber
+EDL	00:44:30,079	00:44:32,160	| BH2021Keynote |	defense plans to deal with the most
+EDL	00:44:32,160	00:44:34,160	| BH2021Keynote |	significant threats to the nation to
+EDL	00:44:34,160	00:44:36,079	| BH2021Keynote |	include significant threats to our
+EDL	00:44:36,079	00:44:38,240	| BH2021Keynote |	critical infrastructure
+
+EDL	00:44:38,240	00:44:40,560	| BH2021Keynote |	3. to exercise these plans because
+EDL	00:44:40,560	00:44:42,560	| BH2021Keynote |	again you've got to exercise in peace
+EDL	00:44:42,560	00:44:44,800	| BH2021Keynote |	time to be prepared for wartime you
+EDL	00:44:44,800	00:44:46,480	| BH2021Keynote |	can't make a friend when you need a
+EDL	00:44:46,480	00:44:48,800	| BH2021Keynote |	friend and then finally to work together
+EDL	00:44:48,800	00:44:51,760	| BH2021Keynote |	to implement these cyber defense
+EDL	00:44:51,760	00:44:55,200	| BH2021Keynote |	plans into actual operations and make
+EDL	00:44:55,200	00:44:57,200	| BH2021Keynote |	sure that we can do that to reduce risk
+EDL	00:44:57,200	00:44:58,720	| BH2021Keynote |	to the nation
+
+EDL	00:44:58,720	00:45:00,400	| BH2021Keynote |	so to some extent some of these
+EDL	00:45:00,400	00:45:02,319	| BH2021Keynote |	activities are already going on across
+EDL	00:45:02,319	00:45:03,440	| BH2021Keynote |	the federal government but they're
+EDL	00:45:03,440	00:45:05,920	| BH2021Keynote |	happening largely in stovepipe so the
+EDL	00:45:05,920	00:45:08,000	| BH2021Keynote |	idea is we bring together our partners
+EDL	00:45:08,000	00:45:09,599	| BH2021Keynote |	and the government and our private
+EDL	00:45:09,599	00:45:11,760	| BH2021Keynote |	sector partners together to really
+EDL	00:45:11,760	00:45:14,160	| BH2021Keynote |	mature this planning capability
+
+EDL	00:45:14,160	00:45:16,079	| BH2021Keynote |	and that means bringing together our
+EDL	00:45:16,079	00:45:17,760	| BH2021Keynote |	partners in the department of defense
+EDL	00:45:17,760	00:45:19,599	| BH2021Keynote |	our u.s cyber command partners our
+EDL	00:45:19,599	00:45:21,280	| BH2021Keynote |	partners in the intel community the
+EDL	00:45:21,280	00:45:23,839	| BH2021Keynote |	national security agency our partners in
+EDL	00:45:23,839	00:45:26,000	| BH2021Keynote |	the law enforcement community like our
+EDL	00:45:26,000	00:45:27,599	| BH2021Keynote |	our great friends in the federal bureau
+EDL	00:45:27,599	00:45:29,680	| BH2021Keynote |	of investigation bringing bringing them
+EDL	00:45:29,680	00:45:31,839	| BH2021Keynote |	all together so that we can make sure
+EDL	00:45:31,839	00:45:34,319	| BH2021Keynote |	that we are aligning
+EDL	00:45:34,319	00:45:36,720	| BH2021Keynote |	their operations and their
+EDL	00:45:36,720	00:45:38,720	| BH2021Keynote |	talents and capabilities and authorities
+EDL	00:45:38,720	00:45:41,119	| BH2021Keynote |	to support the nation's cyber defense
+EDL	00:45:41,119	00:45:43,920	| BH2021Keynote |	activities it also means being able to
+EDL	00:45:43,920	00:45:46,240	| BH2021Keynote |	leverage the power of the federal
+EDL	00:45:46,240	00:45:48,640	| BH2021Keynote |	government so there are sector risk
+EDL	00:45:48,640	00:45:50,240	| BH2021Keynote |	management agencies and these are
+EDL	00:45:50,240	00:45:51,760	| BH2021Keynote |	departments and agencies in the federal
+EDL	00:45:51,760	00:45:54,240	| BH2021Keynote |	government that have very specific
+EDL	00:45:54,240	00:45:56,400	| BH2021Keynote |	expertise about each of the critical
+EDL	00:45:56,400	00:45:58,319	| BH2021Keynote |	infrastructure sectors
+
+EDL	00:45:58,319	00:46:02,240	| BH2021Keynote |	so the energy department treasury the
+EDL	00:46:02,240	00:46:04,319	| BH2021Keynote |	environmental protection agency health
+EDL	00:46:04,319	00:46:05,920	| BH2021Keynote |	and human services the department of
+EDL	00:46:05,920	00:46:08,160	| BH2021Keynote |	transportation the transportation
+EDL	00:46:08,160	00:46:11,040	| BH2021Keynote |	security administration
+EDL	00:46:11,040	00:46:12,960	| BH2021Keynote |	the food and drug administration the
+EDL	00:46:12,960	00:46:15,520	| BH2021Keynote |	government services administration all
+EDL	00:46:15,520	00:46:18,319	| BH2021Keynote |	of these sector experts that come together
+
+EDL	00:46:18,319	00:46:21,599	| BH2021Keynote |	lend incredible knowledge about how to
+EDL	00:46:21,599	00:46:24,160	| BH2021Keynote |	operate uh critical infrastructure and
+EDL	00:46:24,160	00:46:25,839	| BH2021Keynote |	then of course those on the front line
+EDL	00:46:25,839	00:46:28,000	| BH2021Keynote |	the actual critical infrastructure
+EDL	00:46:28,000	00:46:30,079	| BH2021Keynote |	owners and operators can come to the
+EDL	00:46:30,079	00:46:32,000	| BH2021Keynote |	table as well share that planning
+EDL	00:46:32,000	00:46:34,079	| BH2021Keynote |	expertise so we can come together and
+EDL	00:46:34,079	00:46:36,400	| BH2021Keynote |	develop real plans to enable us to
+EDL	00:46:36,400	00:46:39,200	| BH2021Keynote |	defend the nation and cyber
+
+** JCDC: 初始会员
+EDL	00:46:39,200	00:46:41,040	| BH2021Keynote |	and on that note
+EDL	00:46:41,040	00:46:44,400	| BH2021Keynote |	I am also very very excited to announce
+EDL	00:46:44,400	00:46:46,800	| BH2021Keynote |	our initial set of key partners in the
+EDL	00:46:46,800	00:46:48,640	| BH2021Keynote |	jcdc
+EDL	00:46:48,640	00:46:49,920	| BH2021Keynote |	crowdstrike
+EDL	00:46:49,920	00:46:51,440	| BH2021Keynote |	palo alto
+EDL	00:46:51,440	00:46:52,720	| BH2021Keynote |	fireeye
+EDL	00:46:52,720	00:46:54,079	| BH2021Keynote |	microsoft
+EDL	00:46:54,079	00:46:55,040	| BH2021Keynote |	google
+EDL	00:46:55,040	00:46:59,040	| BH2021Keynote |	amazon web services at&t verizon and
+EDL	00:46:59,040	00:47:02,079	| BH2021Keynote |	lumen have all chosen to work with the
+EDL	00:47:02,079	00:47:04,880	| BH2021Keynote |	federal government in the jcdc to help
+EDL	00:47:04,880	00:47:07,680	| BH2021Keynote |	us come together and plan against the
+EDL	00:47:07,680	00:47:10,160	| BH2021Keynote |	most serious cyber threats to the nation
+EDL	00:47:10,160	00:47:12,640	| BH2021Keynote |	our two initial focus areas
+
+
+EDL	00:47:12,640	00:47:15,040	| BH2021Keynote |	first one won't surprise you
+EDL	00:47:15,040	00:47:17,200	| BH2021Keynote |	efforts to combat ransomware
+EDL	00:47:17,200	00:47:19,599	| BH2021Keynote |	the second one is efforts to develop a
+EDL	00:47:19,599	00:47:21,280	| BH2021Keynote |	planning framework
+EDL	00:47:21,280	00:47:24,160	| BH2021Keynote |	to respond to cyber incidents on cloud
+EDL	00:47:24,160	00:47:25,280	| BH2021Keynote |	providers
+
+EDL	00:47:25,280	00:47:28,960	| BH2021Keynote |	so we're very very excited about the jcdc
+EDL	00:47:28,960	00:47:31,040	| BH2021Keynote |	if you are interested in joining us
+EDL	00:47:31,040	00:47:33,200	| BH2021Keynote |	please let us know we really want to
+EDL	00:47:33,200	00:47:34,720	| BH2021Keynote |	partner together for the collective
+EDL	00:47:34,720	00:47:36,960	| BH2021Keynote |	defense of the nation so that was thing
+
+** 人才
+
+EDL	00:47:36,960	00:47:40,000	| BH2021Keynote |	one thing two
+EDL	00:47:40,000	00:47:42,400	| BH2021Keynote |	help us build the cyber workforce of
+EDL	00:47:42,400	00:47:44,640	| BH2021Keynote |	today and tomorrow
+EDL	00:47:44,640	00:47:46,720	| BH2021Keynote |	everybody knows the statistics by this
+EDL	00:47:46,720	00:47:49,599	| BH2021Keynote |	point in time 3.5 million unfilled
+EDL	00:47:49,599	00:47:51,520	| BH2021Keynote |	cybersecurity jobs around the world some
+EDL	00:47:51,520	00:47:53,920	| BH2021Keynote |	500 000 here in the us
+
+EDL	00:47:53,920	00:47:56,000	| BH2021Keynote |	in my personal view this needs to be a
+EDL	00:47:56,000	00:47:58,559	| BH2021Keynote |	highly ambitious national effort
+EDL	00:47:58,559	00:48:00,400	| BH2021Keynote |	to be able to build the cyber security
+EDL	00:48:00,400	00:48:02,480	| BH2021Keynote |	workforce to to deal with the highly
+EDL	00:48:02,480	00:48:04,880	| BH2021Keynote |	digitized world that we live in
+EDL	00:48:04,880	00:48:06,960	| BH2021Keynote |	let me tell you a little bit about what
+EDL	00:48:06,960	00:48:09,119	| BH2021Keynote |	we're doing at CISSA in case it gives you
+EDL	00:48:09,119	00:48:11,599	| BH2021Keynote |	some ideas to partner with us or to do
+EDL	00:48:11,599	00:48:13,200	| BH2021Keynote |	some things on your own to help with
+EDL	00:48:13,200	00:48:15,200	| BH2021Keynote |	this problem first we have great
+EDL	00:48:15,200	00:48:17,440	| BH2021Keynote |	relationships with academia as a path to
+EDL	00:48:17,440	00:48:21,599	| BH2021Keynote |	a cyber security career in particular we partner
+EDL	00:48:21,599	00:48:23,200	| BH2021Keynote |	with our federal government partners for
+EDL	00:48:23,200	00:48:24,800	| BH2021Keynote |	the scholarship to take advantage of the
+EDL	00:48:24,800	00:48:27,040	| BH2021Keynote |	scholarship for service which provides
+EDL	00:48:27,040	00:48:29,040	| BH2021Keynote |	scholarships to students for cyber
+EDL	00:48:29,040	00:48:30,800	| BH2021Keynote |	security careers in exchange for
+EDL	00:48:30,800	00:48:32,640	| BH2021Keynote |	government service and I got to meet
+EDL	00:48:32,640	00:48:34,640	| BH2021Keynote |	with a bunch of our interns last week
+EDL	00:48:34,640	00:48:36,960	| BH2021Keynote |	and if you met with them you would be
+EDL	00:48:36,960	00:48:40,480	| BH2021Keynote |	pretty excited about the future of cyber security
+EDL	00:48:40,480	00:48:42,800	| BH2021Keynote |	but I think problem programs like this
+EDL	00:48:42,800	00:48:46,480	| BH2021Keynote |	really need to be scaled significantly
+EDL	00:48:46,480	00:48:48,280	| BH2021Keynote |	we're also doing a lot of work in the
+EDL	00:48:48,280	00:48:52,800	| BH2021Keynote |	k-12 space which is important to me as a mom
+EDL	00:48:52,800	00:48:55,119	| BH2021Keynote |	we help build cyber security curricula
+EDL	00:48:55,119	00:48:57,440	| BH2021Keynote |	we've provided it to 26 000 teachers
+EDL	00:48:57,440	00:48:59,839	| BH2021Keynote |	around the country helping to impact
+EDL	00:48:59,839	00:49:02,960	| BH2021Keynote |	and influence 3 million students
+EDL	00:49:02,960	00:49:05,280	| BH2021Keynote |	next year we are aggressively focusing
+EDL	00:49:05,280	00:49:08,559	| BH2021Keynote |	on providing the curricula to title one schools
+EDL	00:49:08,559	00:49:10,480	| BH2021Keynote |	to students with disabilities and to
+EDL	00:49:10,480	00:49:12,400	| BH2021Keynote |	historically black colleges and
+EDL	00:49:12,400	00:49:14,640	| BH2021Keynote |	universities very excited about that so
+EDL	00:49:14,640	00:49:16,880	| BH2021Keynote |	that's the academic pathways
+
+** reskilling
+EDL	00:49:16,880	00:49:18,880	| BH2021Keynote |	2. reskilling
+EDL	00:49:18,880	00:49:22,000	| BH2021Keynote |	so we are working on a program to provide
+EDL	00:49:22,000	00:49:23,440	| BH2021Keynote |	training to
+EDL	00:49:23,440	00:49:25,280	| BH2021Keynote |	federal professionals who are not cyber
+EDL	00:49:25,280	00:49:27,359	| BH2021Keynote |	security people who want to be
+EDL	00:49:27,359	00:49:29,040	| BH2021Keynote |	entry-level cyber security people and
+EDL	00:49:29,040	00:49:32,160	| BH2021Keynote |	putting them through a 12-month training program
+EDL	00:49:32,160	00:49:34,559	| BH2021Keynote |	I think this is really important really
+EDL	00:49:34,559	00:49:36,079	| BH2021Keynote |	outside the federal government as well
+EDL	00:49:36,079	00:49:38,000	| BH2021Keynote |	if you think about how many people lost
+EDL	00:49:38,000	00:49:39,920	| BH2021Keynote |	their jobs over the past 18 months due
+EDL	00:49:39,920	00:49:42,319	| BH2021Keynote |	to covid and the need we have for cyber
+EDL	00:49:42,319	00:49:44,000	| BH2021Keynote |	security professionals so I think this
+EDL	00:49:44,000	00:49:46,240	| BH2021Keynote |	is one program that we should figure out
+EDL	00:49:46,240	00:49:48,640	| BH2021Keynote |	how to scale not just for government but
+EDL	00:49:48,640	00:49:50,079	| BH2021Keynote |	outside of government as well these
+EDL	00:49:50,079	00:49:52,640	| BH2021Keynote |	reskilling retraining opportunities
+
+EDL	00:49:52,640	00:49:55,359	| BH2021Keynote |	3. we just issued a grant last week
+EDL	00:49:55,359	00:49:58,400	| BH2021Keynote |	to non-profits who are interested
+EDL	00:49:58,400	00:50:01,359	| BH2021Keynote |	in identifying and developing unrealized
+EDL	00:50:01,359	00:50:05,200	| BH2021Keynote |	cyber talent in our under served communities
+
+EDL	00:50:05,200	00:50:07,680	| BH2021Keynote |	now a particular passion of mine is
+EDL	00:50:07,680	00:50:10,480	| BH2021Keynote |	developing diverse organizations I
+EDL	00:50:10,480	00:50:13,200	| BH2021Keynote |	honestly believe that organizations that
+EDL	00:50:13,200	00:50:15,280	| BH2021Keynote |	we build particularly in technology and
+EDL	00:50:15,280	00:50:17,839	| BH2021Keynote |	cyber security must reflect the
+EDL	00:50:17,839	00:50:20,400	| BH2021Keynote |	incredible diversity of our nation
+EDL	00:50:20,400	00:50:22,720	| BH2021Keynote |	diversity in gender
+EDL	00:50:22,720	00:50:26,720	| BH2021Keynote |	and ethnicity and sexual orientation in education
+EDL	00:50:26,720	00:50:28,800	| BH2021Keynote |	and background all translates into
+EDL	00:50:28,800	00:50:31,200	| BH2021Keynote |	diversity of thought and that helps us
+EDL	00:50:31,200	00:50:34,640	| BH2021Keynote |	solve our most complicated puzzles
+EDL	00:50:34,640	00:50:36,640	| BH2021Keynote |	better and faster
+EDL	00:50:36,640	00:50:40,880	| BH2021Keynote |	that incredible diversity helps us
+EDL	00:50:40,880	00:50:42,960	| BH2021Keynote |	be able to address these problems much
+EDL	00:50:42,960	00:50:45,520	| BH2021Keynote |	more collaboratively and effectively
+
+EDL	00:50:45,520	00:50:48,079	| BH2021Keynote |	so the fourth thing we just issued a
+EDL	00:50:48,079	00:50:50,480	| BH2021Keynote |	cyber security workforce guide and
+EDL	00:50:50,480	00:50:51,920	| BH2021Keynote |	essentially what this is is an
+EDL	00:50:51,920	00:50:54,720	| BH2021Keynote |	interactive guide for federal federal
+EDL	00:50:54,720	00:50:56,800	| BH2021Keynote |	workers they can download it and look
+EDL	00:50:56,800	00:50:58,400	| BH2021Keynote |	for no-cost opportunities for
+EDL	00:50:58,400	00:51:00,319	| BH2021Keynote |	professional development so the whole
+EDL	00:51:00,319	00:51:03,040	| BH2021Keynote |	idea is we make cyber security careers
+EDL	00:51:03,040	00:51:06,160	| BH2021Keynote |	more accessible so that more people can
+EDL	00:51:06,160	00:51:09,520	| BH2021Keynote |	see themselves in cyber
+
+** 总统杯
+EDL	00:51:09,520	00:51:12,160	| BH2021Keynote |	and then finally another thing I am
+EDL	00:51:12,160	00:51:13,839	| BH2021Keynote |	super excited about
+EDL	00:51:13,839	00:51:15,680	| BH2021Keynote |	we are hosting
+EDL	00:51:15,680	00:51:18,800	| BH2021Keynote |	uh the president's cup cyber security
+EDL	00:51:18,800	00:51:23,640	| BH2021Keynote |	competition for the third year in a row
+EDL	00:51:23,640	00:51:25,680	| BH2021Keynote |	[ SPACE 2.0 secs ]
+EDL	00:51:25,680	00:51:31,839	| BH2021Keynote |	[Music]
+EDL	00:51:31,839	00:51:34,720	| BH2021Keynote |	shall we compete registration opens
+EDL	00:51:34,720	00:51:37,680	| BH2021Keynote |	august 2021
+EDL	00:51:37,680	00:51:39,599	| BH2021Keynote |	all right I didn't subject you to my
+EDL	00:51:39,599	00:51:42,559	| BH2021Keynote |	awkward elaine dance at that point in time
+
+EDL	00:51:42,559	00:51:44,559	| BH2021Keynote |	um but this is actually really exciting
+EDL	00:51:44,559	00:51:46,960	| BH2021Keynote |	I hope you get a chance to see my
+EDL	00:51:46,960	00:51:49,280	| BH2021Keynote |	teammate Harry Mortoz's presentation on
+EDL	00:51:49,280	00:51:51,680	| BH2021Keynote |	the president's cup cyber competition
+EDL	00:51:51,680	00:51:54,400	| BH2021Keynote |	essentially what this does is it tries
+EDL	00:51:54,400	00:51:57,280	| BH2021Keynote |	to identify the best cyber talent in the
+EDL	00:51:57,280	00:51:59,040	| BH2021Keynote |	federal government
+EDL	00:51:59,040	00:52:00,960	| BH2021Keynote |	from the military to civilian coming
+EDL	00:52:00,960	00:52:03,200	| BH2021Keynote |	together to compete
+EDL	00:52:03,200	00:52:06,480	| BH2021Keynote |	on labs and virtual exercises
+EDL	00:52:06,480	00:52:08,079	| BH2021Keynote |	and we outsource these are all open
+EDL	00:52:08,079	00:52:10,480	| BH2021Keynote |	source available so if you want to do
+EDL	00:52:10,480	00:52:11,920	| BH2021Keynote |	something similar
+EDL	00:52:11,920	00:52:13,680	| BH2021Keynote |	hold competitions
+EDL	00:52:13,680	00:52:15,839	| BH2021Keynote |	or challenges you can use all of that
+EDL	00:52:15,839	00:52:18,000	| BH2021Keynote |	information to build your own but we are
+EDL	00:52:18,000	00:52:19,760	| BH2021Keynote |	very excited about our third year of the
+EDL	00:52:19,760	00:52:23,040	| BH2021Keynote |	competition uh so check it out and join
+EDL	00:52:23,040	00:52:24,720	| BH2021Keynote |	uh if you can
+
+EDL	00:52:24,720	00:52:26,800	| BH2021Keynote |	so these are just a few examples what
+EDL	00:52:26,800	00:52:28,640	| BH2021Keynote |	we're doing uh of what we're doing at
+EDL	00:52:28,640	00:52:30,559	| BH2021Keynote |	CISSA to help build the cyber workforce
+EDL	00:52:30,559	00:52:33,520	| BH2021Keynote |	but as I said at the outset I believe
+EDL	00:52:33,520	00:52:36,400	| BH2021Keynote |	we need to be much much more ambitious
+EDL	00:52:36,400	00:52:37,599	| BH2021Keynote |	about this
+EDL	00:52:37,599	00:52:41,040	| BH2021Keynote |	and innovative about figuring out how to
+EDL	00:52:41,040	00:52:43,280	| BH2021Keynote |	inform and educate and really inspire
+EDL	00:52:43,280	00:52:45,440	| BH2021Keynote |	the next generation of cyber security
+EDL	00:52:45,440	00:52:48,800	| BH2021Keynote |	professionals from the youngest of ages
+EDL	00:52:48,800	00:52:50,480	| BH2021Keynote |	you know that will both
+EDL	00:52:50,480	00:52:53,040	| BH2021Keynote |	inspire these diverse pipelines of cyber
+EDL	00:52:53,040	00:52:55,440	| BH2021Keynote |	security professionals but it will also
+EDL	00:52:55,440	00:52:57,119	| BH2021Keynote |	help give people the knowledge they need
+EDL	00:52:57,119	00:52:58,720	| BH2021Keynote |	to defend themselves in this very
+EDL	00:52:58,720	00:53:01,200	| BH2021Keynote |	complicated cyber threat environment
+EDL	00:53:01,200	00:53:02,800	| BH2021Keynote |	anybody who knows me knows I'm a bit of
+EDL	00:53:02,800	00:53:04,160	| BH2021Keynote |	a space nut
+EDL	00:53:04,160	00:53:06,000	| BH2021Keynote |	and I really believe we need to treat
+EDL	00:53:06,000	00:53:08,160	| BH2021Keynote |	this problem like the pioneers of space
+EDL	00:53:08,160	00:53:10,640	| BH2021Keynote |	did decades ago again a national
+EDL	00:53:10,640	00:53:12,800	| BH2021Keynote |	ambitious effort and I'm tracking a
+EDL	00:53:12,800	00:53:15,200	| BH2021Keynote |	couple cool things that are out there uh
+EDL	00:53:15,200	00:53:17,119	| BH2021Keynote |	but I hope to learn more a couple things
+EDL	00:53:17,119	00:53:19,119	| BH2021Keynote |	that I know of um
+
+EDL	00:53:19,119	00:53:22,720	| BH2021Keynote |	creating a cyber core akin to the peace core
+EDL	00:53:22,720	00:53:24,800	| BH2021Keynote |	efforts by the new america foundation in
+EDL	00:53:24,800	00:53:27,040	| BH2021Keynote |	cyber florida to focus on cyber
+EDL	00:53:27,040	00:53:28,880	| BH2021Keynote |	citizenship essentially to create
+EDL	00:53:28,880	00:53:30,880	| BH2021Keynote |	resilience to online threats
+EDL	00:53:30,880	00:53:33,520	| BH2021Keynote |	misinformation and disinformation
+
+EDL	00:53:33,520	00:53:35,520	| BH2021Keynote |	a great program by the national cyber
+EDL	00:53:35,520	00:53:37,359	| BH2021Keynote |	scholarship foundation that has set
+EDL	00:53:37,359	00:53:39,440	| BH2021Keynote |	aside two million dollars in
+EDL	00:53:39,440	00:53:41,680	| BH2021Keynote |	scholarships for high school students
+EDL	00:53:41,680	00:53:43,280	| BH2021Keynote |	and college students don't need any
+EDL	00:53:43,280	00:53:44,800	| BH2021Keynote |	cyber security background at all they
+EDL	00:53:44,800	00:53:46,760	| BH2021Keynote |	play a game at
+EDL	00:53:46,760	00:53:49,200	| BH2021Keynote |	cyberstartamerica.org starts in october
+EDL	00:53:49,200	00:53:51,040	| BH2021Keynote |	to see if they have that highly
+EDL	00:53:51,040	00:53:54,559	| BH2021Keynote |	technical talent needed to succeed
+EDL	00:53:54,559	00:53:57,280	| BH2021Keynote |	in cyber security and the whole idea is
+EDL	00:53:57,280	00:53:59,760	| BH2021Keynote |	to be able to create twenty five
+EDL	00:53:59,760	00:54:02,800	| BH2021Keynote |	thousand uh high-end highly technical
+EDL	00:54:02,800	00:54:04,880	| BH2021Keynote |	highly technical cyber professionals by
+EDL	00:54:04,880	00:54:08,480	| BH2021Keynote |	the year 2025. so if you're interested
+EDL	00:54:08,480	00:54:10,000	| BH2021Keynote |	uh or if you know folks who are
+EDL	00:54:10,000	00:54:12,079	| BH2021Keynote |	interested if your kids are interested
+EDL	00:54:12,079	00:54:14,640	| BH2021Keynote |	uh play the game uh 800 scholarships
+EDL	00:54:14,640	00:54:16,079	| BH2021Keynote |	have already been given and it won't
+EDL	00:54:16,079	00:54:18,000	| BH2021Keynote |	surprise you that the students who've
+EDL	00:54:18,000	00:54:20,880	| BH2021Keynote |	won scholarships are the puzzlers and
+EDL	00:54:20,880	00:54:22,800	| BH2021Keynote |	those who are really good at games like
+EDL	00:54:22,800	00:54:25,040	| BH2021Keynote |	minecraft so these are just a few ideas
+EDL	00:54:25,040	00:54:27,680	| BH2021Keynote |	again we need to be super ambitious
+EDL	00:54:27,680	00:54:29,920	| BH2021Keynote |	bring us your best ideas let's build the
+EDL	00:54:29,920	00:54:32,079	| BH2021Keynote |	cyber workforce together
+
+
+
+
+EDL	00:54:32,079	00:54:34,880	| BH2021Keynote |	and then finally help us secure the
+EDL	00:54:34,880	00:54:39,520	| BH2021Keynote |	cyber ecosystem by joining team CISSA
+EDL	00:54:39,520	00:54:42,319	| BH2021Keynote |	not only will you get to work on
+EDL	00:54:42,319	00:54:44,880	| BH2021Keynote |	very challenging problems but you'll get
+EDL	00:54:44,880	00:54:47,040	| BH2021Keynote |	to work with an amazing set of
+EDL	00:54:47,040	00:54:51,680	| BH2021Keynote |	colleagues in a culture that prizes collaboration
+EDL	00:54:51,680	00:54:54,640	| BH2021Keynote |	and teamwork and trust and transparency
+EDL	00:54:54,640	00:54:57,119	| BH2021Keynote |	and ownership and empowerment
+EDL	00:54:57,119	00:54:59,760	| BH2021Keynote |	and innovation and inclusion
+
+EDL	00:54:59,760	00:55:02,160	| BH2021Keynote |	my goal is to make CISSA the world's
+EDL	00:55:02,160	00:55:04,720	| BH2021Keynote |	premier cyber and infrastructure defense
+EDL	00:55:04,720	00:55:08,240	| BH2021Keynote |	agency I ask you I invite you to join me
+EDL	00:55:08,240	00:55:10,559	| BH2021Keynote |	in that important endeavor.
+
+EDL	00:55:10,559	00:55:12,240	| BH2021Keynote |	We're on the front lines of some of the
+EDL	00:55:12,240	00:55:14,079	| BH2021Keynote |	most important and challenging and
+EDL	00:55:14,079	00:55:16,960	| BH2021Keynote |	fascinating work there is from hunting
+EDL	00:55:16,960	00:55:19,680	| BH2021Keynote |	on networks for suspicious activity to
+EDL	00:55:19,680	00:55:21,520	| BH2021Keynote |	identifying
+EDL	00:55:21,520	00:55:22,880	| BH2021Keynote |	vulnerabilities and critical
+EDL	00:55:22,880	00:55:25,280	| BH2021Keynote |	infrastructures to building a modern and
+EDL	00:55:25,280	00:55:28,480	| BH2021Keynote |	defensible federal cyber ecosystem to
+EDL	00:55:28,480	00:55:29,839	| BH2021Keynote |	working with our state and local
+EDL	00:55:29,839	00:55:32,240	| BH2021Keynote |	officials to help secure election
+EDL	00:55:32,240	00:55:33,760	| BH2021Keynote |	infrastructure to being on the front
+EDL	00:55:33,760	00:55:36,400	| BH2021Keynote |	lines of the largest cyber incident
+EDL	00:55:36,400	00:55:38,559	| BH2021Keynote |	response in federal history in the wake
+EDL	00:55:38,559	00:55:40,559	| BH2021Keynote |	of solar winds
+EDL	00:55:40,559	00:55:42,400	| BH2021Keynote |	pretty incredible mission to be a part
+EDL	00:55:42,400	00:55:43,920	| BH2021Keynote |	of and
+EDL	00:55:43,920	00:55:47,280	| BH2021Keynote |	you'll be with exceptional teammates
+
+EDL	00:55:47,280	00:55:49,040	| BH2021Keynote |	one great program
+EDL	00:55:49,040	00:55:50,960	| BH2021Keynote |	from last year was we were able to bring
+EDL	00:55:50,960	00:55:52,799	| BH2021Keynote |	in experts from the private sector as
+EDL	00:55:52,799	00:55:54,880	| BH2021Keynote |	part of the cares act to help with
+EDL	00:55:54,880	00:55:57,359	| BH2021Keynote |	coveted response so one teammate Kendra
+EDL	00:55:57,359	00:55:59,920	| BH2021Keynote |	Martin joined us from the private sector
+EDL	00:55:59,920	00:56:02,000	| BH2021Keynote |	and has coordinated a multi-agency
+EDL	00:56:02,000	00:56:04,400	| BH2021Keynote |	effort to help protect the Covid 19
+EDL	00:56:04,400	00:56:07,680	| BH2021Keynote |	vaccine supply chain from development
+EDL	00:56:07,680	00:56:10,000	| BH2021Keynote |	to shipping to distribution
+
+EDL	00:56:10,000	00:56:12,720	| BH2021Keynote |	Kendra answered the call to her nation
+EDL	00:56:12,720	00:56:14,559	| BH2021Keynote |	and has helped to make us collectively
+EDL	00:56:14,559	00:56:17,520	| BH2021Keynote |	safer so again being a part of team
+EDL	00:56:17,520	00:56:18,799	| BH2021Keynote |	CISSA means
+EDL	00:56:18,799	00:56:20,240	| BH2021Keynote |	really challenging
+EDL	00:56:20,240	00:56:21,920	| BH2021Keynote |	and fun problems
+EDL	00:56:21,920	00:56:24,400	| BH2021Keynote |	uh really great teammates
+EDL	00:56:24,400	00:56:26,400	| BH2021Keynote |	in a collaborative culture where you get
+EDL	00:56:26,400	00:56:29,839	| BH2021Keynote |	to use your imagination every single day
+
+EDL	00:56:29,839	00:56:34,480	| BH2021Keynote |	now behind me is a QR code
+EDL	00:56:34,480	00:56:36,400	| BH2021Keynote |	you will probably know that the federal
+EDL	00:56:36,400	00:56:39,119	| BH2021Keynote |	government does not have the easiest
+EDL	00:56:39,119	00:56:42,000	| BH2021Keynote |	process to navigate for hiring so we are
+EDL	00:56:42,000	00:56:43,920	| BH2021Keynote |	trying to change that I'm very focused
+EDL	00:56:43,920	00:56:46,319	| BH2021Keynote |	on this issue but if you see that QR
+EDL	00:56:46,319	00:56:48,559	| BH2021Keynote |	code there and I promise you this is not
+EDL	00:56:48,559	00:56:49,839	| BH2021Keynote |	a rick roll
+EDL	00:56:49,839	00:56:51,760	| BH2021Keynote |	you can go to that qr code and you can
+EDL	00:56:51,760	00:56:54,319	| BH2021Keynote |	submit your resume to come be part of
+EDL	00:56:54,319	00:56:56,960	| BH2021Keynote |	team sysa so I ask you to think about
+EDL	00:56:56,960	00:56:59,280	| BH2021Keynote |	doing that or provide that qr code to a
+EDL	00:56:59,280	00:57:01,440	| BH2021Keynote |	friend who you think would be a great
+EDL	00:57:01,440	00:57:04,160	| BH2021Keynote |	addition to our CISSA teammates
+
+EDL	00:57:04,160	00:57:06,640	| BH2021Keynote |	now I get it many of you have awesome
+EDL	00:57:06,640	00:57:08,480	| BH2021Keynote |	jobs and that's terrific and you don't
+EDL	00:57:08,480	00:57:10,400	| BH2021Keynote |	want to join team CISSA at this point so
+EDL	00:57:10,400	00:57:12,640	| BH2021Keynote |	keep your options open but you may want
+EDL	00:57:12,640	00:57:13,920	| BH2021Keynote |	to join
+EDL	00:57:13,920	00:57:15,520	| BH2021Keynote |	and do some other things to help us
+EDL	00:57:15,520	00:57:17,920	| BH2021Keynote |	secure the cyber ecosystem
+EDL	00:57:17,920	00:57:19,440	| BH2021Keynote |	you may want to join the critical
+EDL	00:57:19,440	00:57:22,240	| BH2021Keynote |	infrastructure sector as a cyber expert
+EDL	00:57:22,240	00:57:23,920	| BH2021Keynote |	you may want to be a mentor in your
+EDL	00:57:23,920	00:57:26,240	| BH2021Keynote |	local community for students who are
+EDL	00:57:26,240	00:57:29,200	| BH2021Keynote |	interested in careers in cyber
+EDL	00:57:29,200	00:57:31,440	| BH2021Keynote |	you can help us by being a cyber
+EDL	00:57:31,440	00:57:34,160	| BH2021Keynote |	evangelist using your expertise to help
+EDL	00:57:34,160	00:57:36,559	| BH2021Keynote |	people understand all of the basics that
+EDL	00:57:36,559	00:57:40,400	| BH2021Keynote |	we need to do to secure our systems and our networks
+
+** start with phishing email
+EDL	00:57:40,400	00:57:42,480	| BH2021Keynote |	we know that over 90 percent of
+EDL	00:57:42,480	00:57:46,640	| BH2021Keynote |	successful cyber attacks start with the phishing email
+EDL	00:57:46,640	00:57:48,960	| BH2021Keynote |	so it's the basics of cyber hygiene
+EDL	00:57:48,960	00:57:50,799	| BH2021Keynote |	multi-factor authentication strong
+EDL	00:57:50,799	00:57:53,119	| BH2021Keynote |	passwords keeping your software updated
+EDL	00:57:53,119	00:57:56,000	| BH2021Keynote |	patching your vulnerabilities these basics
+EDL	00:57:56,000	00:57:58,079	| BH2021Keynote |	can really help us strengthen the
+EDL	00:57:58,079	00:58:00,319	| BH2021Keynote |	security of the ecosystem so help us get
+EDL	00:58:00,319	00:58:02,480	| BH2021Keynote |	the word out on that
+EDL	00:58:02,480	00:58:05,680	| BH2021Keynote |	and then finally if you're a business leader
+EDL	00:58:05,680	00:58:08,240	| BH2021Keynote |	or working with your CEO or if you're a
+EDL	00:58:08,240	00:58:10,880	| BH2021Keynote |	CEO make sure
+EDL	00:58:10,880	00:58:13,920	| BH2021Keynote |	that you are treating cyber security
+EDL	00:58:13,920	00:58:15,599	| BH2021Keynote |	not the purview
+EDL	00:58:15,599	00:58:18,400	| BH2021Keynote |	of the IT girls
+EDL	00:58:18,400	00:58:23,680	| BH2021Keynote |	but rather as a significant business risk
+EDL	00:58:23,680	00:58:25,359	| BH2021Keynote |	it's incredibly important that
+EDL	00:58:25,359	00:58:27,440	| BH2021Keynote |	businesses from the highest level make
+EDL	00:58:27,440	00:58:30,799	| BH2021Keynote |	cyber security a top priority from the board level
+
+EDL	00:58:30,799	00:58:33,520	| BH2021Keynote |	and that they empower and resource and
+EDL	00:58:33,520	00:58:38,160	| BH2021Keynote |	ensure that your CISOs are getting what they need
+EDL	00:58:38,160	00:58:40,720	| BH2021Keynote |	to effectively defend the network help
+EDL	00:58:40,720	00:58:42,400	| BH2021Keynote |	us get that word out as well because
+EDL	00:58:42,400	00:58:44,720	| BH2021Keynote |	that's incredibly important. now this is
+EDL	00:58:44,720	00:58:47,280	| BH2021Keynote |	not an exhaustive set of ideas,
+EDL	00:58:47,280	00:58:49,200	| BH2021Keynote |	but it's really a starting point for our
+EDL	00:58:49,200	00:58:52,079	| BH2021Keynote |	conversation around a partnership
+
+EDL	00:58:52,079	00:58:53,920	| BH2021Keynote |	now in closing
+EDL	00:58:53,920	00:58:55,440	| BH2021Keynote |	we've talked a bit talked a bit about
+EDL	00:58:55,440	00:58:57,760	| BH2021Keynote |	some of the challenges in cyber
+EDL	00:58:57,760	00:58:59,359	| BH2021Keynote |	but we've done a lot of work to this
+EDL	00:58:59,359	00:59:00,960	| BH2021Keynote |	point I mean we should be pretty proud
+EDL	00:59:00,960	00:59:02,640	| BH2021Keynote |	of ourselves of what we've been able to
+EDL	00:59:02,640	00:59:04,480	| BH2021Keynote |	accomplish but we also
+EDL	00:59:04,480	00:59:06,720	| BH2021Keynote |	need to be very pragmatic
+EDL	00:59:06,720	00:59:09,440	| BH2021Keynote |	this is frankly a generational issue and
+EDL	00:59:09,440	00:59:11,680	| BH2021Keynote |	somewhat of a persistent problem
+EDL	00:59:11,680	00:59:15,359	| BH2021Keynote |	but if we work together if we collaborate together
+EDL	00:59:15,359	00:59:17,599	| BH2021Keynote |	we can raise that cybersecurity baseline
+EDL	00:59:17,599	00:59:18,960	| BH2021Keynote |	and reduce
+EDL	00:59:18,960	00:59:20,640	| BH2021Keynote |	that risk
+
+EDL	00:59:20,640	00:59:22,400	| BH2021Keynote |	now throughout a career in cyber
+EDL	00:59:22,400	00:59:24,720	| BH2021Keynote |	security and counterterrorism I always
+EDL	00:59:24,720	00:59:26,640	| BH2021Keynote |	get the same question
+EDL	00:59:26,640	00:59:29,599	| BH2021Keynote |	Jen what keeps you up at night?
+
+EDL	00:59:29,599	00:59:31,599	| BH2021Keynote |	but I prefer to reframe that question
+EDL	00:59:31,599	00:59:33,119	| BH2021Keynote |	it's not what keeps me up at night it's
+EDL	00:59:33,119	00:59:35,359	| BH2021Keynote |	what wakes me up in the morning and that
+EDL	00:59:35,359	00:59:38,400	| BH2021Keynote |	is the opportunity
+EDL	00:59:38,400	00:59:40,640	| BH2021Keynote |	to work in a fantastic agency with
+EDL	00:59:40,640	00:59:42,720	| BH2021Keynote |	incredibly talented teammates on one of
+EDL	00:59:42,720	00:59:45,200	| BH2021Keynote |	the most important
+EDL	00:59:45,200	00:59:47,920	| BH2021Keynote |	missions to our national security and
+
+EDL	00:59:47,920	00:59:50,400	| BH2021Keynote |	the opportunity to solve
+EDL	00:59:50,400	00:59:52,799	| BH2021Keynote |	some of our most complicated and
+EDL	00:59:52,799	00:59:55,440	| BH2021Keynote |	important puzzles.
+
+EDL	00:59:55,440	00:59:58,799	| BH2021Keynote |	so I invite you to come partner with us
+EDL	00:59:58,799	01:00:00,720	| BH2021Keynote |	for the collective cyber defense of our
+EDL	01:00:00,720	01:00:03,680	| BH2021Keynote |	nation to help us defend today and
+EDL	01:00:03,680	01:00:05,440	| BH2021Keynote |	secure tomorrow
+
+EDL	01:00:05,440	01:00:07,200	| BH2021Keynote |	thanks very much for your time and I
+EDL	01:00:07,200	01:00:11,799	| BH2021Keynote |	look forward to working with all of you
+EDL	01:00:11,799	01:00:19,440	| BH2021Keynote |	[ SPACE 7.6 secs ]
+
+* Ending from Jeff Moss
+
+EDL	01:00:19,440	01:00:21,359	| BH2021Keynote |	thank you for your opening
+EDL	01:00:21,359	01:00:23,520	| BH2021Keynote |	comments Jen uh I think they were pretty
+EDL	01:00:23,520	01:00:25,040	| BH2021Keynote |	well received and I don't think there
+EDL	01:00:25,040	01:00:27,520	| BH2021Keynote |	was a single topic you didn't cover
+EDL	01:00:27,520	01:00:28,559	| BH2021Keynote |	so
+EDL	01:00:28,559	01:00:30,240	| BH2021Keynote |	fantastic
+EDL	01:00:30,240	01:00:32,079	| BH2021Keynote |	we don't have a whole lot of time left
+EDL	01:00:32,079	01:00:34,079	| BH2021Keynote |	but I do have some questions for you and
+EDL	01:00:34,079	01:00:35,520	| BH2021Keynote |	hopefully I will have time to get a
+EDL	01:00:35,520	01:00:38,720	| BH2021Keynote |	question from the audience as well
+EDL	01:00:38,720	01:00:40,559	| BH2021Keynote |	so first off thank you
+EDL	01:00:40,559	01:00:42,400	| BH2021Keynote |	and
+EDL	01:00:42,400	01:00:44,480	| BH2021Keynote |	I think one of the cornerstones around
+EDL	01:00:44,480	01:00:47,119	| BH2021Keynote |	what you're asking is sort of the mutual
+EDL	01:00:47,119	01:00:49,200	| BH2021Keynote |	trust between the government and civil
+EDL	01:00:49,200	01:00:51,520	| BH2021Keynote |	society or government and business
+EDL	01:00:51,520	01:00:52,720	| BH2021Keynote |	and so
+EDL	01:00:52,720	01:00:54,160	| BH2021Keynote |	um
+EDL	01:00:54,160	01:00:55,920	| BH2021Keynote |	trust is always sort of on short supply
+EDL	01:00:55,920	01:00:57,839	| BH2021Keynote |	especially over the last few years what
+EDL	01:00:57,839	01:01:00,000	| BH2021Keynote |	what is sort of your strategy or how are
+EDL	01:01:00,000	01:01:01,839	| BH2021Keynote |	you going to approach how do you build
+EDL	01:01:01,839	01:01:03,440	| BH2021Keynote |	trust with this community I mean you
+EDL	01:01:03,440	01:01:04,960	| BH2021Keynote |	have to demonstrate
+EDL	01:01:04,960	01:01:07,520	| BH2021Keynote |	your skill you have to demonstrate trust
+EDL	01:01:07,520	01:01:08,960	| BH2021Keynote |	what are your thoughts?
+
+
+EDL	01:01:08,960	01:01:10,720	| BH2021Keynote |	yeah thank you well first of all thanks
+EDL	01:01:10,720	01:01:13,040	| BH2021Keynote |	so much for the opportunity I'm sorry I
+EDL	01:01:13,040	01:01:15,440	| BH2021Keynote |	was not able to be out there in person
+EDL	01:01:15,440	01:01:17,920	| BH2021Keynote |	uh hopefully next year but it's been a
+EDL	01:01:17,920	01:01:20,720	| BH2021Keynote |	um a great honor to be a part of black hat
+EDL	01:01:20,720	01:01:22,079	| BH2021Keynote |	you know you're absolutely right I think
+EDL	01:01:22,079	01:01:24,559	| BH2021Keynote |	the foundation for any ability to
+EDL	01:01:24,559	01:01:27,520	| BH2021Keynote |	effectively collaborate is building that trust
+
+EDL	01:01:27,520	01:01:29,280	| BH2021Keynote |	and frankly Jeff that's why I took a
+EDL	01:01:29,280	01:01:30,880	| BH2021Keynote |	little bit of time at the front end so
+EDL	01:01:30,880	01:01:32,799	| BH2021Keynote |	that people understand more about me
+EDL	01:01:32,799	01:01:34,720	| BH2021Keynote |	because I think it's hard to trust
+EDL	01:01:34,720	01:01:36,559	| BH2021Keynote |	somebody that you don't know
+EDL	01:01:36,559	01:01:39,760	| BH2021Keynote |	and it's really the foundation of why we
+EDL	01:01:39,760	01:01:41,520	| BH2021Keynote |	wanted to put together this joint cyber
+EDL	01:01:41,520	01:01:43,359	| BH2021Keynote |	defense collaborative so we could bring
+EDL	01:01:43,359	01:01:44,319	| BH2021Keynote |	together
+EDL	01:01:44,319	01:01:46,240	| BH2021Keynote |	key government partners with our key
+EDL	01:01:46,240	01:01:48,400	| BH2021Keynote |	private sector partners who I have such
+EDL	01:01:48,400	01:01:50,400	| BH2021Keynote |	an appreciation for having just spent
+EDL	01:01:50,400	01:01:51,599	| BH2021Keynote |	the last four and a half years in the
+EDL	01:01:51,599	01:01:53,760	| BH2021Keynote |	private sector I think if you work
+EDL	01:01:53,760	01:01:55,920	| BH2021Keynote |	closely together if you solve problems
+EDL	01:01:55,920	01:01:58,640	| BH2021Keynote |	together um you really be you you're
+EDL	01:01:58,640	01:02:00,559	| BH2021Keynote |	able to create that trust and you know
+EDL	01:02:00,559	01:02:02,559	| BH2021Keynote |	sometimes it's getting a beer with
+EDL	01:02:02,559	01:02:04,960	| BH2021Keynote |	somebody or talking over
+EDL	01:02:04,960	01:02:07,039	| BH2021Keynote |	personal topics that helps to build that
+EDL	01:02:07,039	01:02:08,640	| BH2021Keynote |	so I think it's the foundation of any
+EDL	01:02:08,640	01:02:10,480	| BH2021Keynote |	successful relationship with whether
+EDL	01:02:10,480	01:02:11,440	| BH2021Keynote |	it's uh
+EDL	01:02:11,440	01:02:13,680	| BH2021Keynote |	your marriage uh or a uh or a
+EDL	01:02:13,680	01:02:16,559	| BH2021Keynote |	collaboration uh with your partner so
+EDL	01:02:16,559	01:02:18,880	| BH2021Keynote |	trust is is foundational yeah I think
+
+Q:
+EDL	01:02:18,880	01:02:20,559	| BH2021Keynote |	it's really important because some
+EDL	01:02:20,559	01:02:22,000	| BH2021Keynote |	people in government want you to trust
+EDL	01:02:22,000	01:02:23,680	| BH2021Keynote |	the organization
+EDL	01:02:23,680	01:02:25,839	| BH2021Keynote |	but in reality researchers we trust
+EDL	01:02:25,839	01:02:27,760	| BH2021Keynote |	people right you trust people you don't
+EDL	01:02:27,760	01:02:29,440	| BH2021Keynote |	necessarily trust organizations and so
+EDL	01:02:29,440	01:02:31,359	| BH2021Keynote |	so that's really important that you're
+EDL	01:02:31,359	01:02:33,760	| BH2021Keynote |	trying to to identify who you are and
+EDL	01:02:33,760	01:02:35,599	| BH2021Keynote |	what you believe in and so so my next
+EDL	01:02:35,599	01:02:37,920	| BH2021Keynote |	question then is
+EDL	01:02:37,920	01:02:40,480	| BH2021Keynote |	one of the big pitfalls um people run
+EDL	01:02:40,480	01:02:43,359	| BH2021Keynote |	into is the going dark debate right it's
+EDL	01:02:43,359	01:02:46,000	| BH2021Keynote |	really polarizing and and this sort of
+EDL	01:02:46,000	01:02:48,240	| BH2021Keynote |	false dichotomy of privacy versus
+EDL	01:02:48,240	01:02:50,000	| BH2021Keynote |	security and it's not possible to have
+EDL	01:02:50,000	01:02:52,480	| BH2021Keynote |	both at the same time so DHS has done a
+EDL	01:02:52,480	01:02:54,000	| BH2021Keynote |	pretty good job of steering clear of the
+EDL	01:02:54,000	01:02:55,520	| BH2021Keynote |	going dark debate
+EDL	01:02:55,520	01:02:56,960	| BH2021Keynote |	but it's going to be asked of you at
+EDL	01:02:56,960	01:03:00,720	| BH2021Keynote |	some point so any any thoughts
+
+EDL	01:03:00,720	01:03:02,160	| BH2021Keynote |	yeah thanks for asking the question
+EDL	01:03:02,160	01:03:04,240	| BH2021Keynote |	because I know it's hugely important um
+EDL	01:03:04,240	01:03:06,319	| BH2021Keynote |	not just to this audience but really to
+EDL	01:03:06,319	01:03:08,400	| BH2021Keynote |	everybody you know having spent the past
+EDL	01:03:08,400	01:03:09,920	| BH2021Keynote |	four and a half years as a private
+EDL	01:03:09,920	01:03:12,079	| BH2021Keynote |	citizen I have a strong view on this and
+EDL	01:03:12,079	01:03:13,680	| BH2021Keynote |	that's you know in particular as the
+EDL	01:03:13,680	01:03:16,400	| BH2021Keynote |	assistant director um that we
+EDL	01:03:16,400	01:03:18,799	| BH2021Keynote |	have to have strong encryption to be
+EDL	01:03:18,799	01:03:19,920	| BH2021Keynote |	able to
+EDL	01:03:19,920	01:03:22,400	| BH2021Keynote |	ensure the defense of our networks it's
+EDL	01:03:22,400	01:03:24,400	| BH2021Keynote |	foundational as everybody in this
+EDL	01:03:24,400	01:03:25,760	| BH2021Keynote |	audience knows
+EDL	01:03:25,760	01:03:26,880	| BH2021Keynote |	so
+EDL	01:03:26,880	01:03:28,400	| BH2021Keynote |	I realize that there are other points of
+EDL	01:03:28,400	01:03:29,920	| BH2021Keynote |	view across the government but I think
+EDL	01:03:29,920	01:03:31,359	| BH2021Keynote |	as the assistant director and me
+EDL	01:03:31,359	01:03:32,640	| BH2021Keynote |	personally
+EDL	01:03:32,640	01:03:35,200	| BH2021Keynote |	I think strong encryption is absolutely
+EDL	01:03:35,200	01:03:37,280	| BH2021Keynote |	fundamental for us to be able to do what
+EDL	01:03:37,280	01:03:42,359	| BH2021Keynote |	we need to do right on woo
+
+Q:
+EDL	01:03:42,359	01:03:44,319	| BH2021Keynote |	[ SPACE 2.0 secs ]
+EDL	01:03:44,319	01:03:46,240	| BH2021Keynote |	um and so my final question before I go
+EDL	01:03:46,240	01:03:47,839	| BH2021Keynote |	to the audience real quick is what do
+EDL	01:03:47,839	01:03:49,599	| BH2021Keynote |	you think of your right mix of talent
+EDL	01:03:49,599	01:03:51,599	| BH2021Keynote |	you talked about it briefly you know
+EDL	01:03:51,599	01:03:53,520	| BH2021Keynote |	it's sort of like you're adapting to
+EDL	01:03:53,520	01:03:55,440	| BH2021Keynote |	this new world do you think with these
+EDL	01:03:55,440	01:03:56,720	| BH2021Keynote |	new authorities you're going to be able
+EDL	01:03:56,720	01:03:58,480	| BH2021Keynote |	to get the right talent or people
+EDL	01:03:58,480	01:04:00,880	| BH2021Keynote |	are interested in in serving the country
+EDL	01:04:00,880	01:04:02,640	| BH2021Keynote |	uh through dhs or do you think that the
+EDL	01:04:02,640	01:04:05,760	| BH2021Keynote |	pool of private sector is too great
+
+EDL	01:04:05,760	01:04:08,079	| BH2021Keynote |	no I mean I I think I'm going to be
+EDL	01:04:08,079	01:04:11,200	| BH2021Keynote |	relentlessly focused on this um so
+EDL	01:04:11,200	01:04:12,640	| BH2021Keynote |	you know if I don't if I don't get it
+EDL	01:04:12,640	01:04:15,200	| BH2021Keynote |	done I it won't be for lack of effort uh
+EDL	01:04:15,200	01:04:17,039	| BH2021Keynote |	the government hiring process is
+EDL	01:04:17,039	01:04:20,319	| BH2021Keynote |	byzantine and uh really kind of a mess
+EDL	01:04:20,319	01:04:22,480	| BH2021Keynote |	and you know as much as we're able to
+EDL	01:04:22,480	01:04:24,240	| BH2021Keynote |	bring in great talent for people who
+EDL	01:04:24,240	01:04:26,880	| BH2021Keynote |	want to defend their country and to be
+EDL	01:04:26,880	01:04:28,559	| BH2021Keynote |	part of this incredible mission there is
+EDL	01:04:28,559	01:04:30,960	| BH2021Keynote |	a huge competition out there and so
+EDL	01:04:30,960	01:04:32,480	| BH2021Keynote |	we're going to do a couple things first
+EDL	01:04:32,480	01:04:33,520	| BH2021Keynote |	of all there's we're going to be
+EDL	01:04:33,520	01:04:35,520	| BH2021Keynote |	implementing shortly the cyber talent
+EDL	01:04:35,520	01:04:37,680	| BH2021Keynote |	management system and I hope that that
+EDL	01:04:37,680	01:04:39,039	| BH2021Keynote |	will help
+EDL	01:04:39,039	01:04:40,480	| BH2021Keynote |	bring in people because you'll be able
+EDL	01:04:40,480	01:04:42,799	| BH2021Keynote |	to pay closer to market
+
+EDL	01:04:42,799	01:04:44,480	| BH2021Keynote |	I am personally going to work with my
+EDL	01:04:44,480	01:04:47,039	| BH2021Keynote |	team to be able to accelerate the hiring
+EDL	01:04:47,039	01:04:49,280	| BH2021Keynote |	process I am really really focused on
+EDL	01:04:49,280	01:04:51,760	| BH2021Keynote |	that and also to look for
+EDL	01:04:51,760	01:04:53,680	| BH2021Keynote |	opportunities where we can bring people
+EDL	01:04:53,680	01:04:55,200	| BH2021Keynote |	in from the private sector it doesn't
+EDL	01:04:55,200	01:04:57,839	| BH2021Keynote |	need to be a career but bring people in
+EDL	01:04:57,839	01:04:59,839	| BH2021Keynote |	for a year two years to really help
+EDL	01:04:59,839	01:05:02,079	| BH2021Keynote |	strengthen the connective tissue between
+EDL	01:05:02,079	01:05:04,160	| BH2021Keynote |	public and private so I think we need to
+EDL	01:05:04,160	01:05:06,960	| BH2021Keynote |	look for creative ideas I'm also looking
+EDL	01:05:06,960	01:05:09,680	| BH2021Keynote |	to bring in a chief people officer
+EDL	01:05:09,680	01:05:11,359	| BH2021Keynote |	who can help me create that talent
+EDL	01:05:11,359	01:05:14,480	| BH2021Keynote |	management ecosystem uh but also as I
+EDL	01:05:14,480	01:05:16,319	| BH2021Keynote |	think we both appreciate Jeff to build
+EDL	01:05:16,319	01:05:18,000	| BH2021Keynote |	that culture that I talked about of
+EDL	01:05:18,000	01:05:20,160	| BH2021Keynote |	collaboration and teamwork and ownership
+EDL	01:05:20,160	01:05:22,799	| BH2021Keynote |	and empowerment and trust the trust and
+EDL	01:05:22,799	01:05:24,799	| BH2021Keynote |	transparency piece I think are so
+EDL	01:05:24,799	01:05:26,720	| BH2021Keynote |	incredibly important
+
+EDL	01:05:26,720	01:05:28,400	| BH2021Keynote |	I'm just happy that you called it a
+EDL	01:05:28,400	01:05:31,599	| BH2021Keynote |	chief person officer not a human capital
+EDL	01:05:31,599	01:05:35,200	| BH2021Keynote |	officer that was purposeful
+EDL	01:05:35,200	01:05:36,799	| BH2021Keynote |	right on okay let's have time that's a
+EDL	01:05:36,799	01:05:38,480	| BH2021Keynote |	question from the audience if anybody
+EDL	01:05:38,480	01:05:41,359	| BH2021Keynote |	where I can see you have a question
+EDL	01:05:41,359	01:05:42,400	| BH2021Keynote |	I'll
+EDL	01:05:42,400	01:05:45,839	| BH2021Keynote |	ask it if it's not crazy
+EDL	01:05:45,839	01:05:46,880	| BH2021Keynote |	[ SPACE 1.0 secs ]
+EDL	01:05:46,880	01:05:49,280	| BH2021Keynote |	I'll take crazy questions
+EDL	01:05:49,280	01:05:52,400	| BH2021Keynote |	okay crazy right here
+EDL	01:05:52,400	01:05:52,820	| BH2021Keynote |	[ SPACE 0.4 secs ]
+EDL	01:05:52,820	01:05:55,959	| BH2021Keynote |	[Music]
+EDL	01:05:55,959	01:06:02,000	| BH2021Keynote |	[ SPACE 6.0 secs ]
+
+Q:
+
+EDL	01:06:02,000	01:06:02,880	| BH2021Keynote |	oh okay
+EDL	01:06:02,880	01:06:06,000	| BH2021Keynote |	okay um uh you're uh um the question is
+EDL	01:06:06,000	01:06:08,000	| BH2021Keynote |	how would you draw a distinction between
+EDL	01:06:08,000	01:06:10,559	| BH2021Keynote |	yourself and your predecessor uh
+EDL	01:06:10,559	01:06:12,880	| BH2021Keynote |	director Krebs in maybe your your style
+EDL	01:06:12,880	01:06:15,440	| BH2021Keynote |	or approach or or new vision uh in the
+EDL	01:06:15,440	01:06:18,400	| BH2021Keynote |	direction of the of the department?
+
+EDL	01:06:18,400	01:06:20,960	| BH2021Keynote |	I think Chris did a fantastic job great
+EDL	01:06:20,960	01:06:23,280	| BH2021Keynote |	he founded the agency
+EDL	01:06:23,280	01:06:25,760	| BH2021Keynote |	he shepherded it shepherded it through a
+EDL	01:06:25,760	01:06:29,200	| BH2021Keynote |	really turbulent time the election period
+EDL	01:06:29,200	01:06:31,119	| BH2021Keynote |	Covid and
+EDL	01:06:31,119	01:06:33,039	| BH2021Keynote |	I just I think the world of Chris Krebs
+EDL	01:06:33,039	01:06:35,760	| BH2021Keynote |	and he remains a great friend I think
+EDL	01:06:35,760	01:06:38,319	| BH2021Keynote |	there's the the founder right and then
+EDL	01:06:38,319	01:06:41,200	| BH2021Keynote |	there's the next CEO that comes in and
+EDL	01:06:41,200	01:06:43,359	| BH2021Keynote |	transforms continues the transformation
+EDL	01:06:43,359	01:06:45,680	| BH2021Keynote |	of the organization so I'm gonna be
+EDL	01:06:45,680	01:06:48,160	| BH2021Keynote |	focused on how do we put the right
+EDL	01:06:48,160	01:06:50,880	| BH2021Keynote |	processes in place to be able to take
+EDL	01:06:50,880	01:06:53,359	| BH2021Keynote |	CISSA into our next five and ten years
+EDL	01:06:53,359	01:06:54,240	| BH2021Keynote |	and so
+EDL	01:06:54,240	01:06:56,480	| BH2021Keynote |	I think our styles are similar he has
+EDL	01:06:56,480	01:06:58,799	| BH2021Keynote |	many more twitter followers than I do
+
+EDL	01:06:58,799	01:07:01,280	| BH2021Keynote |	um but we have similar senses of humor
+EDL	01:07:01,280	01:07:03,520	| BH2021Keynote |	and we're both we're both
+EDL	01:07:03,520	01:07:05,680	| BH2021Keynote |	really focused on taking care of people
+EDL	01:07:05,680	01:07:07,280	| BH2021Keynote |	and making sure that as we do the
+EDL	01:07:07,280	01:07:09,119	| BH2021Keynote |	mission we're creating great
+EDL	01:07:09,119	01:07:10,960	| BH2021Keynote |	partnerships and also having a lot of
+EDL	01:07:10,960	01:07:12,559	| BH2021Keynote |	fun doing it so
+EDL	01:07:12,559	01:07:14,880	| BH2021Keynote |	um so I hope to build on Chris's great
+EDL	01:07:14,880	01:07:17,039	| BH2021Keynote |	work and I hope to partner with uh
+EDL	01:07:17,039	01:07:20,000	| BH2021Keynote |	everybody there to to help make CISSA uh
+EDL	01:07:20,000	01:07:23,119	| BH2021Keynote |	the the agency that the nation deserves
+
+EDL	01:07:23,119	01:07:25,119	| BH2021Keynote |	fantastic all right well thank you so
+EDL	01:07:25,119	01:07:28,480	| BH2021Keynote |	much let's give Jen a round of applause
+EDL	01:07:28,480	01:07:31,440	| BH2021Keynote |	look forward to seeing you in the future
+EDL	01:07:31,440	01:07:34,760	| BH2021Keynote |	thank you everyone
